@@ -1,0 +1,50 @@
+D:/disease_detection/data/plantdoc_clean/test/Strawberry leaf/strawberry-leaves-isolated-white-17473157.jpg
+D:/disease_detection/data/plantdoc_clean/test/Raspberry leaf/depositphotos_2795312-stock-photo-green-raspberry-leaf.jpg
+D:/disease_detection/data/plantdoc_clean/test/Squash Powdery mildew leaf/squash-leave-w-powd-mild.jpg
+D:/disease_detection/data/plantdoc_clean/test/Strawberry leaf/strawberry-leaves-collection-white-background-36684676.jpg
+D:/disease_detection/data/plantdoc_clean/test/Tomato leaf bacterial spot/%2320+Bacterial+Spot+and+Speck.jpg
+D:/disease_detection/data/plantdoc_clean/test/Blueberry leaf/vaccinium-angustifolium-low-bush-blueberry_0830_124221.jpg
+D:/disease_detection/data/plantdoc_clean/test/Peach leaf/stock-photo-peach-tree-leaf-isolated-over-white-background-back-side-64472731.jpg
+D:/disease_detection/data/plantdoc_clean/test/Tomato leaf bacterial spot/tomato_bacterial-speck_01_zoom.jpg
+D:/disease_detection/data/plantdoc_clean/test/Raspberry leaf/iron-deficiency-raspberry-leaf-chlorosis-isolated-32457798.jpg
+D:/disease_detection/data/plantdoc_clean/test/Corn leaf blight/corn-disease-update-fig-3-gray-leaf-spot.jpg
+D:/disease_detection/data/plantdoc_clean/test/Corn Gray leaf spot/IMG_42231.jpg
+D:/disease_detection/data/plantdoc_clean/test/Soyabean leaf/stock-photo-soy-leaf-isolated-on-white-background-120961801.jpg
+D:/disease_detection/data/plantdoc_clean/test/Strawberry leaf/strawberry-leaves-stock-picture-948708.jpg
+D:/disease_detection/data/plantdoc_clean/test/Tomato Early blight leaf/bugs-and-blight-061.jpg
+D:/disease_detection/data/plantdoc_clean/test/Tomato leaf yellow virus/8226402877_9abf151b5b_b.jpg
+D:/disease_detection/data/plantdoc_clean/test/grape leaf/P1130286.jpg
+D:/disease_detection/data/plantdoc_clean/test/Tomato leaf/2013-08-20-06.jpg
+D:/disease_detection/data/plantdoc_clean/test/Cherry leaf/e52bbb9a08ede2948ba0c006f02fe7b053ad7831d1df6_1260x1260.jpg
+D:/disease_detection/data/plantdoc_clean/test/Corn leaf blight/0c.jpg
+D:/disease_detection/data/plantdoc_clean/test/grape leaf/730-grape-leaf-2560x1600-nature-wallpaper.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/tomato yellow leaf curl virus/google_0098.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/citrus greening disease/67.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/cucumber leaf/126.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/peach leaf curl/google_0170.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/citrus canker/83.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/cabbage alternaria leaf spot/64.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/tomato early blight/google_0280.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/maple leaf/57.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/apple leaf/185.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/apple scab/google_0106.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/corn rust/google_0034.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/cauliflower leaf/google_0108.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/rice sheath blight/google_0212.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/tomato septoria leaf spot/google_0040.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/plum pocket disease/google_0028.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/cucumber leaf/google_0291.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/celery early blight/google_0000.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/bell pepper leaf/google_0057.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/banana panama disease/49.jpg
+D:/disease_detection/data/raw/plantwild/extracted/plantwild/images/garlic leaf/32.jpg
+D:/disease_detection/data/processed/images/plantdoc_0.jpg
+D:/disease_detection/data/processed/images/plantdoc_1.jpg
+D:/disease_detection/data/processed/images/plantdoc_10.jpg
+D:/disease_detection/data/processed/images/plantdoc_100.jpg
+D:/disease_detection/data/processed/images/plantdoc_1000.jpg
+D:/disease_detection/data/processed/images/plantdoc_1001.jpg
+D:/disease_detection/data/processed/images/plantdoc_1002.jpg
+D:/disease_detection/data/processed/images/plantdoc_1003.jpg
+D:/disease_detection/data/processed/images/plantdoc_1004.jpg
+D:/disease_detection/data/processed/images/plantdoc_1005.jpg

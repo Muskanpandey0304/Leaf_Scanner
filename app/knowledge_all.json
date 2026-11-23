@@ -1,0 +1,2739 @@
+{
+ "_note": "DRAFT for review. General guidance only; no chemical doses. Always follow local agricultural extension advice and product labels.",
+ "unknown_plant": {
+  "title": "Not a supported plant / unclear photo",
+  "kind": "unknown",
+  "summary": "This does not look like one of the supported crops, or the photo is unclear.",
+  "actions": [
+   "Photograph a single leaf, filling the frame, in daylight.",
+   "Avoid fruit, stems, whole fields or text/diagrams."
+  ],
+  "prevention": [],
+  "lookalikes": []
+ },
+ "apple__scab": {
+  "title": "Apple scab",
+  "crop": "Apple",
+  "kind": "disease",
+  "cause": "Fungus (Venturia inaequalis), spreads in cool wet spring weather.",
+  "signs": [
+   "Olive-green to brown velvety spots on leaves",
+   "Leaves may yellow, curl and drop early",
+   "Dark corky spots on fruit"
+  ],
+  "actions": [
+   "Remove and destroy fallen and infected leaves.",
+   "Prune to open the canopy so leaves dry faster.",
+   "If severe, ask local extension which fungicide is approved for apples in your area."
+  ],
+  "prevention": [
+   "Rake leaves in autumn",
+   "Choose scab-resistant varieties",
+   "Avoid overhead watering"
+  ],
+  "lookalikes": [
+   "apple__rust",
+   "apple__black_rot"
+  ],
+  "tier": "B"
+ },
+ "apple__black_rot": {
+  "title": "Apple black rot / frogeye leaf spot",
+  "crop": "Apple",
+  "kind": "disease",
+  "cause": "Fungus (Botryosphaeria obtusa), survives on dead wood and mummified fruit.",
+  "signs": [
+   "Round brown spots with purple edges (frogeye) on leaves",
+   "Rotting fruit that turns brown to black",
+   "Cankers on branches"
+  ],
+  "actions": [
+   "Prune out dead or cankered branches and remove mummified fruit.",
+   "Destroy infected material away from the orchard.",
+   "Ask local extension about approved fungicides if pressure is high."
+  ],
+  "prevention": [
+   "Keep trees pruned and healthy",
+   "Clean up fruit and debris each season"
+  ],
+  "lookalikes": [
+   "apple__scab",
+   "apple__rust"
+  ],
+  "tier": "B"
+ },
+ "apple__rust": {
+  "title": "Cedar apple rust",
+  "crop": "Apple",
+  "kind": "disease",
+  "cause": "Fungus (Gymnosporangium) that needs both apple and juniper/cedar trees.",
+  "signs": [
+   "Bright yellow-orange spots on the upper leaf surface",
+   "Small tube-like structures under the spots later in the season"
+  ],
+  "actions": [
+   "Remove nearby juniper/cedar galls if practical.",
+   "Remove heavily infected leaves.",
+   "Ask local extension about preventive fungicide timing in spring."
+  ],
+  "prevention": [
+   "Plant rust-resistant varieties",
+   "Keep apples away from junipers"
+  ],
+  "lookalikes": [
+   "apple__scab",
+   "apple__black_rot"
+  ],
+  "tier": "A"
+ },
+ "apple__healthy": {
+  "title": "Healthy apple leaf",
+  "crop": "Apple",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water at the base, not on leaves.",
+   "Prune for airflow and light.",
+   "Feed in spring according to a soil test."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "bell_pepper__bacterial_spot": {
+  "title": "Bacterial spot (pepper)",
+  "crop": "Bell pepper",
+  "kind": "disease",
+  "cause": "Bacteria (Xanthomonas), spread by splashing water and infected seed.",
+  "signs": [
+   "Small dark water-soaked spots that turn brown with yellow halo",
+   "Spots may merge; leaves yellow and drop",
+   "Raised scabby spots on fruit"
+  ],
+  "actions": [
+   "Remove badly infected plants and leaves.",
+   "Avoid working with wet plants and avoid overhead watering.",
+   "Copper-based products are sometimes used; check local advice and the label."
+  ],
+  "prevention": [
+   "Use disease-free seed or transplants",
+   "Rotate crops (2-3 years)",
+   "Drip irrigation"
+  ],
+  "lookalikes": [
+   "tomato__bacterial_spot"
+  ],
+  "tier": "B"
+ },
+ "bell_pepper__healthy": {
+  "title": "Healthy pepper leaf",
+  "crop": "Bell pepper",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Even watering at the base.",
+   "Stake plants and keep airflow.",
+   "Rotate with non-solanaceous crops."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "blueberry__healthy": {
+  "title": "Healthy blueberry leaf",
+  "crop": "Blueberry",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Keep soil acidic (pH about 4.5-5.5).",
+   "Mulch to hold moisture.",
+   "Prune old canes to improve airflow."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "cherry__powdery_mildew": {
+  "title": "Powdery mildew (cherry)",
+  "crop": "Cherry",
+  "kind": "disease",
+  "cause": "Fungus (Podosphaera), favoured by warm days, cool humid nights.",
+  "signs": [
+   "White powdery coating on leaves",
+   "Leaves may curl or distort"
+  ],
+  "actions": [
+   "Prune to improve airflow.",
+   "Remove heavily affected shoots.",
+   "Ask local extension about approved fungicides if severe."
+  ],
+  "prevention": [
+   "Avoid excess nitrogen",
+   "Plant in sun with good airflow"
+  ],
+  "lookalikes": [
+   "squash__powdery_mildew"
+  ],
+  "tier": "B"
+ },
+ "cherry__healthy": {
+  "title": "Healthy cherry leaf",
+  "crop": "Cherry",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Prune in dry weather.",
+   "Avoid overhead watering.",
+   "Remove fallen leaves in autumn."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "corn__common_rust": {
+  "title": "Common rust (corn)",
+  "crop": "Corn / maize",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia sorghi), spread by wind in cool humid weather.",
+  "signs": [
+   "Small round to oval brick-red or brown raised pustules on both leaf surfaces",
+   "Pustules turn dark with age"
+  ],
+  "actions": [
+   "Often mild; monitor spread to upper leaves.",
+   "If severe before tasselling, ask local extension about fungicide."
+  ],
+  "prevention": [
+   "Plant resistant hybrids",
+   "Plant early"
+  ],
+  "lookalikes": [
+   "corn__gray_leaf_spot",
+   "corn__northern_leaf_blight"
+  ],
+  "tier": "B"
+ },
+ "corn__gray_leaf_spot": {
+  "title": "Gray leaf spot (corn)",
+  "crop": "Corn / maize",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora zeae-maydis), survives in crop residue; warm humid weather.",
+  "signs": [
+   "Narrow rectangular tan to gray spots running parallel to leaf veins",
+   "Spots may merge and kill large leaf areas"
+  ],
+  "actions": [
+   "Rotate away from corn and till or manage residue.",
+   "Ask local extension about fungicide if the upper leaves are affected."
+  ],
+  "prevention": [
+   "Resistant hybrids",
+   "Crop rotation",
+   "Good field drainage"
+  ],
+  "lookalikes": [
+   "corn__northern_leaf_blight",
+   "corn__common_rust"
+  ],
+  "tier": "B"
+ },
+ "corn__northern_leaf_blight": {
+  "title": "Northern leaf blight (corn)",
+  "crop": "Corn / maize",
+  "kind": "disease",
+  "cause": "Fungus (Exserohilum turcicum), cool moist weather, survives in residue.",
+  "signs": [
+   "Long cigar-shaped gray-green to tan lesions, often 2.5-15 cm",
+   "Lesions can join and blight the whole leaf"
+  ],
+  "actions": [
+   "Rotate crops and manage residue.",
+   "Ask local extension about fungicide if it reaches upper leaves early."
+  ],
+  "prevention": [
+   "Resistant hybrids",
+   "Rotation"
+  ],
+  "lookalikes": [
+   "corn__gray_leaf_spot",
+   "corn__common_rust"
+  ],
+  "tier": "B"
+ },
+ "corn__healthy": {
+  "title": "Healthy corn leaf",
+  "crop": "Corn / maize",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Keep up regular nitrogen and water, especially at tasselling.",
+   "Scout weekly for spots or pustules."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "grape__black_rot": {
+  "title": "Black rot (grape)",
+  "crop": "Grape",
+  "kind": "disease",
+  "cause": "Fungus (Guignardia bidwellii), warm wet weather; overwinters on mummified berries.",
+  "signs": [
+   "Tan circular leaf spots with dark borders and tiny black dots",
+   "Berries shrivel into hard black mummies"
+  ],
+  "actions": [
+   "Remove mummified berries and infected canes.",
+   "Improve canopy airflow.",
+   "Ask local extension about fungicide timing from early growth stages."
+  ],
+  "prevention": [
+   "Sanitation each winter",
+   "Open canopy",
+   "Avoid overhead watering"
+  ],
+  "lookalikes": [
+   "grape__leaf_blight"
+  ],
+  "tier": "A"
+ },
+ "grape__leaf_blight": {
+  "title": "Grape leaf blight / leaf spot",
+  "crop": "Grape",
+  "kind": "disease",
+  "cause": "Fungal leaf spot (e.g. Isariopsis), favoured by humid conditions.",
+  "signs": [
+   "Irregular dark brown spots on leaves",
+   "Leaves may yellow and drop early"
+  ],
+  "actions": [
+   "Remove infected leaves and debris.",
+   "Improve airflow through pruning and trellising.",
+   "Ask local extension about fungicide if it spreads."
+  ],
+  "prevention": [
+   "Good canopy management",
+   "Clean up fallen leaves"
+  ],
+  "lookalikes": [
+   "grape__black_rot"
+  ],
+  "tier": "B"
+ },
+ "grape__healthy": {
+  "title": "Healthy grape leaf",
+  "crop": "Grape",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Keep the canopy open and trained.",
+   "Water at the base."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "peach__healthy": {
+  "title": "Healthy peach leaf",
+  "crop": "Peach",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Prune for airflow in dormant season.",
+   "Remove fallen leaves and fruit."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "potato__early_blight": {
+  "title": "Early blight (potato)",
+  "crop": "Potato",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria solani), stressed plants, warm humid conditions.",
+  "signs": [
+   "Dark brown spots with concentric rings (target look) on older leaves first",
+   "Yellowing around spots"
+  ],
+  "actions": [
+   "Remove infected lower leaves.",
+   "Keep plants well fed and watered (stress makes it worse).",
+   "Ask local extension about fungicide if it spreads."
+  ],
+  "prevention": [
+   "Rotate crops (3 years)",
+   "Certified seed potatoes",
+   "Avoid overhead watering"
+  ],
+  "lookalikes": [
+   "potato__late_blight",
+   "tomato__early_blight"
+  ],
+  "tier": "B"
+ },
+ "potato__late_blight": {
+  "title": "Late blight (potato)",
+  "crop": "Potato",
+  "kind": "disease",
+  "cause": "Oomycete (Phytophthora infestans); spreads very fast in cool wet weather. Serious disease.",
+  "signs": [
+   "Large water-soaked dark patches, often with pale green edge",
+   "White fuzzy growth under leaves in humid weather",
+   "Tubers rot"
+  ],
+  "actions": [
+   "Act quickly: remove and bag infected plants; do not compost.",
+   "Do not harvest tubers from badly infected plants for storage.",
+   "Contact local extension urgently for approved fungicides."
+  ],
+  "prevention": [
+   "Certified seed",
+   "Destroy volunteer potatoes",
+   "Resistant varieties",
+   "Avoid overhead watering"
+  ],
+  "lookalikes": [
+   "potato__early_blight",
+   "tomato__late_blight"
+  ],
+  "tier": "A"
+ },
+ "potato__healthy": {
+  "title": "Healthy potato leaf",
+  "crop": "Potato",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Hill soil around stems.",
+   "Water evenly.",
+   "Scout weekly, especially in cool wet weather."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "raspberry__healthy": {
+  "title": "Healthy raspberry leaf",
+  "crop": "Raspberry",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Thin canes for airflow.",
+   "Remove old fruited canes."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "soybean__healthy": {
+  "title": "Healthy soybean leaf",
+  "crop": "Soybean",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Scout weekly for spots or yellowing.",
+   "Rotate with non-legume crops."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "squash__powdery_mildew": {
+  "title": "Powdery mildew (squash)",
+  "crop": "Squash",
+  "kind": "disease",
+  "cause": "Fungi, thrive in warm dry days and humid nights.",
+  "signs": [
+   "White powdery patches on leaf surfaces",
+   "Leaves yellow, then brown and die"
+  ],
+  "actions": [
+   "Remove badly affected leaves.",
+   "Improve spacing and airflow.",
+   "Ask local extension about approved treatments."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Avoid overcrowding",
+   "Water at the base in morning"
+  ],
+  "lookalikes": [
+   "cherry__powdery_mildew"
+  ],
+  "tier": "B"
+ },
+ "strawberry__leaf_scorch": {
+  "title": "Leaf scorch (strawberry)",
+  "crop": "Strawberry",
+  "kind": "disease",
+  "cause": "Fungus (Diplocarpon earlianum), wet weather.",
+  "signs": [
+   "Many small purple spots that enlarge",
+   "Leaf edges look scorched and dry"
+  ],
+  "actions": [
+   "Remove infected leaves after harvest.",
+   "Thin plants for airflow.",
+   "Ask local extension about fungicide if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Renovate beds yearly",
+   "Drip irrigation"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "strawberry__healthy": {
+  "title": "Healthy strawberry leaf",
+  "crop": "Strawberry",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Mulch with straw.",
+   "Remove old leaves after harvest."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "tomato__bacterial_spot": {
+  "title": "Bacterial spot (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Bacteria (Xanthomonas), spread by splashing water; warm wet weather.",
+  "signs": [
+   "Small dark greasy-looking spots on leaves, sometimes with yellow halo",
+   "Rough scabby spots on fruit"
+  ],
+  "actions": [
+   "Remove badly infected leaves; avoid handling wet plants.",
+   "Water at the base.",
+   "Copper products are sometimes used; check local advice."
+  ],
+  "prevention": [
+   "Disease-free seed or transplants",
+   "Crop rotation",
+   "Drip irrigation"
+  ],
+  "lookalikes": [
+   "tomato__septoria_leaf_spot",
+   "tomato__early_blight",
+   "bell_pepper__bacterial_spot"
+  ],
+  "tier": "B"
+ },
+ "tomato__early_blight": {
+  "title": "Early blight (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria solani), warm humid weather; affects stressed plants.",
+  "signs": [
+   "Brown spots with concentric rings, starting on older lower leaves",
+   "Yellowing around spots"
+  ],
+  "actions": [
+   "Remove infected lower leaves.",
+   "Mulch and water at the base.",
+   "Ask local extension about fungicide if it spreads."
+  ],
+  "prevention": [
+   "Rotate crops (3 years)",
+   "Stake plants for airflow",
+   "Keep plants well fed and watered"
+  ],
+  "lookalikes": [
+   "tomato__late_blight",
+   "tomato__septoria_leaf_spot",
+   "potato__early_blight"
+  ],
+  "tier": "B"
+ },
+ "tomato__late_blight": {
+  "title": "Late blight (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Oomycete (Phytophthora infestans); spreads very fast in cool wet weather. Serious disease.",
+  "signs": [
+   "Large greasy dark patches on leaves, often with pale edge",
+   "White fuzz underneath in humid weather",
+   "Firm brown rot on fruit"
+  ],
+  "actions": [
+   "Act quickly: remove and bag infected plants; do not compost.",
+   "Check nearby potatoes and tomatoes.",
+   "Contact local extension urgently for approved fungicides."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Avoid overhead watering",
+   "Good spacing"
+  ],
+  "lookalikes": [
+   "tomato__early_blight",
+   "potato__late_blight"
+  ],
+  "tier": "B"
+ },
+ "tomato__leaf_mold": {
+  "title": "Leaf mold (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Fungus (Passalora fulva), high humidity, common in greenhouses.",
+  "signs": [
+   "Pale green-yellow patches on upper leaf surface",
+   "Olive-green to brown velvety mold underneath"
+  ],
+  "actions": [
+   "Increase ventilation and lower humidity.",
+   "Remove infected leaves.",
+   "Ask local extension about fungicides if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Space plants",
+   "Water at the base"
+  ],
+  "lookalikes": [
+   "tomato__late_blight"
+  ],
+  "tier": "A"
+ },
+ "tomato__septoria_leaf_spot": {
+  "title": "Septoria leaf spot (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Fungus (Septoria lycopersici), splashing water, warm wet weather.",
+  "signs": [
+   "Many small round spots with dark borders and gray centres, often with tiny black dots",
+   "Starts on lower leaves"
+  ],
+  "actions": [
+   "Remove infected lower leaves.",
+   "Mulch to stop soil splash.",
+   "Ask local extension about fungicide if it climbs the plant."
+  ],
+  "prevention": [
+   "Rotate crops",
+   "Stake and prune for airflow",
+   "Drip irrigation"
+  ],
+  "lookalikes": [
+   "tomato__bacterial_spot",
+   "tomato__early_blight"
+  ],
+  "tier": "B"
+ },
+ "tomato__mosaic_virus": {
+  "title": "Mosaic virus (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Virus (ToMV/TMV), spread by hands, tools, seed. No cure.",
+  "signs": [
+   "Mottled light and dark green mosaic pattern",
+   "Leaves may be curled, narrow or distorted",
+   "Stunted growth"
+  ],
+  "actions": [
+   "Remove and bag infected plants; do not compost.",
+   "Wash hands and tools with soap or disinfectant between plants.",
+   "Do not smoke or handle tobacco before touching plants."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Clean tools",
+   "Certified seed"
+  ],
+  "lookalikes": [
+   "tomato__yellow_leaf_curl_virus"
+  ],
+  "tier": "B"
+ },
+ "tomato__yellow_leaf_curl_virus": {
+  "title": "Yellow leaf curl virus (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Virus spread by whiteflies. No cure.",
+  "signs": [
+   "Upward-curling, yellow-edged, small leaves",
+   "Stunted bushy plants",
+   "Few or no fruit"
+  ],
+  "actions": [
+   "Remove and bag infected plants early.",
+   "Control whiteflies (yellow sticky traps, netting; ask local advice).",
+   "Do not move plants from infected areas."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Insect-proof netting for seedlings",
+   "Remove weeds that harbour whiteflies"
+  ],
+  "lookalikes": [
+   "tomato__mosaic_virus"
+  ],
+  "tier": "B"
+ },
+ "tomato__healthy": {
+  "title": "Healthy tomato leaf",
+  "crop": "Tomato",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water at the base.",
+   "Stake and prune lower leaves for airflow.",
+   "Scout weekly, especially in humid weather."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "banana__healthy": {
+  "title": "Healthy banana leaf",
+  "crop": "Banana",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Remove dead leaves regularly.",
+   "Keep soil well drained and mulched.",
+   "Scout for yellowing of older leaves."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "banana__panama_disease": {
+  "title": "Panama disease (Fusarium wilt, banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Soil-borne fungus (Fusarium oxysporum f. sp. cubense) entering through roots. No cure.",
+  "signs": [
+   "Older leaves yellow, then collapse around the stem",
+   "Brown to reddish discolouration inside the stem when cut",
+   "Plants wilt and die"
+  ],
+  "actions": [
+   "Remove and destroy infected plants; do not move soil or suckers from the area.",
+   "Clean tools and boots between plots.",
+   "Contact local agricultural extension: this disease is often notifiable."
+  ],
+  "prevention": [
+   "Plant disease-free tissue-culture material",
+   "Use resistant varieties",
+   "Improve drainage and avoid moving soil"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "basil__healthy": {
+  "title": "Healthy basil leaf",
+  "crop": "Basil",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water at the base in the morning.",
+   "Pinch flowers and tips for bushy growth.",
+   "Give good airflow."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "basil__downy_mildew": {
+  "title": "Downy mildew (basil)",
+  "crop": "Basil",
+  "kind": "disease",
+  "cause": "Oomycete (Peronospora belbahrii), spreads in humid conditions and on infected seed.",
+  "signs": [
+   "Yellowing between leaf veins",
+   "Grey to purple fuzzy growth under leaves",
+   "Leaves curl and brown"
+  ],
+  "actions": [
+   "Remove and bag infected leaves or plants.",
+   "Improve airflow and keep leaves dry.",
+   "Ask local extension about options; fungicides are limited."
+  ],
+  "prevention": [
+   "Use resistant varieties",
+   "Water at the base",
+   "Avoid overcrowding"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "bean__healthy": {
+  "title": "Healthy bean leaf",
+  "crop": "Bean",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water at the base.",
+   "Rotate with non-legume crops.",
+   "Scout for spots and mosaic patterns."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "bean__halo_blight": {
+  "title": "Halo blight (bean)",
+  "crop": "Bean",
+  "kind": "disease",
+  "cause": "Bacteria (Pseudomonas syringae pv. phaseolicola), seed-borne, spread by rain splash in cool weather.",
+  "signs": [
+   "Small water-soaked spots with a yellow-green halo",
+   "Spots turn brown; leaves may drop",
+   "Pods get greasy spots"
+  ],
+  "actions": [
+   "Remove badly infected plants.",
+   "Avoid working in the crop when wet.",
+   "Ask local extension about copper-based options."
+  ],
+  "prevention": [
+   "Use certified disease-free seed",
+   "Rotate crops",
+   "Avoid overhead watering"
+  ],
+  "lookalikes": [
+   "bean__rust"
+  ],
+  "tier": "B"
+ },
+ "bean__mosaic_virus": {
+  "title": "Bean mosaic virus",
+  "crop": "Bean",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected seed. No cure.",
+  "signs": [
+   "Light and dark green mottling",
+   "Puckered, curled leaves",
+   "Stunted plants and poor pods"
+  ],
+  "actions": [
+   "Remove and bag infected plants.",
+   "Control aphids.",
+   "Do not save seed from infected plants."
+  ],
+  "prevention": [
+   "Certified virus-free seed",
+   "Resistant varieties",
+   "Control aphids and weeds"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "bean__rust": {
+  "title": "Rust (bean)",
+  "crop": "Bean",
+  "kind": "disease",
+  "cause": "Fungus (Uromyces appendiculatus), spreads by wind in humid, mild weather.",
+  "signs": [
+   "Small rusty-brown powdery pustules on leaves",
+   "Yellow patches around them",
+   "Early leaf drop"
+  ],
+  "actions": [
+   "Remove infected leaves and plant debris.",
+   "Keep leaves dry and improve spacing.",
+   "Ask local extension about fungicide if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Crop rotation",
+   "Clean up residue after harvest"
+  ],
+  "lookalikes": [
+   "bean__halo_blight"
+  ],
+  "tier": "B"
+ },
+ "blueberry__rust": {
+  "title": "Rust (blueberry)",
+  "crop": "Blueberry",
+  "kind": "disease",
+  "cause": "Fungus that alternates with another host plant (often hemlock or conifers).",
+  "signs": [
+   "Small yellow to orange pustules under leaves",
+   "Yellow spots on top",
+   "Early leaf drop"
+  ],
+  "actions": [
+   "Remove and destroy infected leaves.",
+   "Improve airflow by pruning.",
+   "Ask local extension about fungicide timing."
+  ],
+  "prevention": [
+   "Remove alternate host plants nearby",
+   "Prune for airflow"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "broccoli__healthy": {
+  "title": "Healthy broccoli leaf",
+  "crop": "Broccoli",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water evenly at the base.",
+   "Rotate with non-brassica crops.",
+   "Scout for pests under leaves."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "broccoli__downy_mildew": {
+  "title": "Downy mildew (broccoli)",
+  "crop": "Broccoli",
+  "kind": "disease",
+  "cause": "Oomycete (Hyaloperonospora), cool damp conditions.",
+  "signs": [
+   "Yellow to brown angular patches on upper leaves",
+   "White-grey fuzz underneath",
+   "Dark spots on heads"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Improve airflow and avoid wetting leaves.",
+   "Ask local extension about treatments if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Wider spacing",
+   "Rotate crops"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "cabbage__healthy": {
+  "title": "Healthy cabbage leaf",
+  "crop": "Cabbage",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water evenly.",
+   "Rotate with non-brassica crops.",
+   "Check under leaves for caterpillars and aphids."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "cabbage__alternaria_leaf_spot": {
+  "title": "Alternaria leaf spot (cabbage)",
+  "crop": "Cabbage",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria brassicicola), spread by seed, splash and wind in warm humid weather.",
+  "signs": [
+   "Round brown spots with concentric rings",
+   "Yellow halo around spots",
+   "Spots may crack and join"
+  ],
+  "actions": [
+   "Remove infected leaves and debris.",
+   "Avoid overhead watering.",
+   "Ask local extension about fungicides if severe."
+  ],
+  "prevention": [
+   "Use clean seed",
+   "Rotate for 2-3 years",
+   "Remove crop residue"
+  ],
+  "lookalikes": [
+   "cauliflower__alternaria_leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "carrot__cavity_spot": {
+  "title": "Cavity spot (carrot)",
+  "crop": "Carrot",
+  "kind": "disease",
+  "cause": "Soil-borne Pythium fungi in wet, compacted soil. Mostly affects the root.",
+  "signs": [
+   "Sunken elliptical lesions on the root",
+   "Leaves may yellow in severe cases"
+  ],
+  "actions": [
+   "Improve drainage and avoid waterlogging.",
+   "Harvest on time.",
+   "Rotate fields."
+  ],
+  "prevention": [
+   "Well-drained soil",
+   "Long crop rotations"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "cauliflower__healthy": {
+  "title": "Healthy cauliflower leaf",
+  "crop": "Cauliflower",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water evenly.",
+   "Rotate with non-brassica crops.",
+   "Protect from heat stress."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "cauliflower__alternaria_leaf_spot": {
+  "title": "Alternaria leaf spot (cauliflower)",
+  "crop": "Cauliflower",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria), warm humid weather, seed-borne.",
+  "signs": [
+   "Brown spots with rings on leaves",
+   "Yellow edges around spots",
+   "Dark spots on curds"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Avoid wetting leaves.",
+   "Ask local extension about fungicides if it spreads."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Crop rotation",
+   "Residue clean-up"
+  ],
+  "lookalikes": [
+   "cabbage__alternaria_leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "celery__healthy": {
+  "title": "Healthy celery leaf",
+  "crop": "Celery",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Keep soil evenly moist.",
+   "Space plants for airflow."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "celery__anthracnose": {
+  "title": "Anthracnose (celery)",
+  "crop": "Celery",
+  "kind": "disease",
+  "cause": "Fungal disease (Colletotrichum or Septoria-like), splashing water and humid weather.",
+  "signs": [
+   "Small dark sunken spots on leaves and stalks",
+   "Spots join and leaves collapse"
+  ],
+  "actions": [
+   "Remove infected plants.",
+   "Avoid overhead watering.",
+   "Ask local extension about treatment."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotation",
+   "Good drainage"
+  ],
+  "lookalikes": [
+   "celery__early_blight"
+  ],
+  "tier": "B"
+ },
+ "celery__early_blight": {
+  "title": "Early blight (celery, Cercospora)",
+  "crop": "Celery",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora apii), warm humid weather.",
+  "signs": [
+   "Small yellow-green spots that turn tan with a darker edge",
+   "Older leaves affected first"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Keep foliage dry.",
+   "Ask local extension about fungicides."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotation",
+   "Spacing"
+  ],
+  "lookalikes": [
+   "celery__anthracnose"
+  ],
+  "tier": "B"
+ },
+ "citrus__canker": {
+  "title": "Citrus canker",
+  "crop": "Citrus",
+  "kind": "disease",
+  "cause": "Bacteria (Xanthomonas citri), spread by rain and wind; can be a regulated disease.",
+  "signs": [
+   "Raised corky lesions with a yellow halo on leaves",
+   "Spots on fruit and twigs",
+   "Leaf and fruit drop"
+  ],
+  "actions": [
+   "Report to local agricultural authority: it is often notifiable.",
+   "Remove and bag infected material; disinfect tools.",
+   "Do not move plant material."
+  ],
+  "prevention": [
+   "Certified clean nursery stock",
+   "Windbreaks",
+   "Control leaf miners"
+  ],
+  "lookalikes": [
+   "citrus__greening"
+  ],
+  "tier": "A"
+ },
+ "citrus__greening": {
+  "title": "Citrus greening (HLB)",
+  "crop": "Citrus",
+  "kind": "disease",
+  "cause": "Bacterium spread by psyllid insects. No cure. Often notifiable.",
+  "signs": [
+   "Blotchy yellow mottling on leaves",
+   "Small lopsided bitter fruit",
+   "Twig dieback"
+  ],
+  "actions": [
+   "Report to local agricultural authority.",
+   "Remove infected trees as advised locally.",
+   "Control psyllids."
+  ],
+  "prevention": [
+   "Certified clean trees",
+   "Psyllid control",
+   "Scout regularly"
+  ],
+  "lookalikes": [
+   "citrus__canker"
+  ],
+  "tier": "A"
+ },
+ "coffee__healthy": {
+  "title": "Healthy coffee leaf",
+  "crop": "Coffee",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Prune for airflow and light.",
+   "Shade management and mulching help."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "coffee__leaf_rust": {
+  "title": "Coffee leaf rust",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Fungus (Hemileia vastatrix), spreads by wind and rain in warm humid weather.",
+  "signs": [
+   "Yellow-orange powdery spots under leaves",
+   "Matching pale spots on top",
+   "Leaf drop and weak plants"
+  ],
+  "actions": [
+   "Prune to open the canopy.",
+   "Remove heavily infected leaves where practical.",
+   "Ask local extension about fungicide timing."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Shade and pruning management",
+   "Balanced nutrition"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "cucumber__healthy": {
+  "title": "Healthy cucumber leaf",
+  "crop": "Cucumber",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water at the base.",
+   "Trellis for airflow.",
+   "Scout for mildew and beetles."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "cucumber__angular_leaf_spot": {
+  "title": "Angular leaf spot (cucumber)",
+  "crop": "Cucumber",
+  "kind": "disease",
+  "cause": "Bacteria (Pseudomonas syringae pv. lachrymans), spread by splash and seed.",
+  "signs": [
+   "Water-soaked angular spots limited by veins",
+   "Spots dry, tear and fall out",
+   "Spots on fruit"
+  ],
+  "actions": [
+   "Remove infected leaves; avoid handling wet plants.",
+   "Avoid overhead watering.",
+   "Ask local extension about copper options."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotation",
+   "Drip irrigation"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "cucumber__bacterial_wilt": {
+  "title": "Bacterial wilt (cucumber)",
+  "crop": "Cucumber",
+  "kind": "disease",
+  "cause": "Bacteria (Erwinia tracheiphila) spread by cucumber beetles. No cure.",
+  "signs": [
+   "Sudden wilting of leaves and vines",
+   "Sticky white ooze from cut stems"
+  ],
+  "actions": [
+   "Remove and destroy wilted plants.",
+   "Control cucumber beetles.",
+   "Do not compost."
+  ],
+  "prevention": [
+   "Beetle control early",
+   "Row covers on young plants"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "cucumber__powdery_mildew": {
+  "title": "Powdery mildew (cucumber)",
+  "crop": "Cucumber",
+  "kind": "disease",
+  "cause": "Fungus, favoured by warm days and humid nights.",
+  "signs": [
+   "White powdery patches on leaves",
+   "Leaves yellow, brown and die"
+  ],
+  "actions": [
+   "Remove badly affected leaves.",
+   "Improve airflow.",
+   "Ask local extension about approved treatments."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Spacing",
+   "Morning watering at the base"
+  ],
+  "lookalikes": [
+   "squash__powdery_mildew"
+  ],
+  "tier": "B"
+ },
+ "eggplant__healthy": {
+  "title": "Healthy eggplant leaf",
+  "crop": "Eggplant",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water evenly at the base.",
+   "Stake plants.",
+   "Rotate with non-solanaceous crops."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "eggplant__cercospora_leaf_spot": {
+  "title": "Cercospora leaf spot (eggplant)",
+  "crop": "Eggplant",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora), warm wet weather.",
+  "signs": [
+   "Round spots with pale centres and dark margins",
+   "Leaves yellow and drop"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Avoid wetting foliage.",
+   "Ask local extension about fungicides."
+  ],
+  "prevention": [
+   "Rotation",
+   "Spacing",
+   "Clean residue"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "garlic__healthy": {
+  "title": "Healthy garlic leaf",
+  "crop": "Garlic",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Plant in well-drained soil.",
+   "Rotate with non-allium crops (3-4 years)."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "garlic__leaf_blight": {
+  "title": "Leaf blight (garlic)",
+  "crop": "Garlic",
+  "kind": "disease",
+  "cause": "Fungal leaf blights (e.g. Stemphylium, Botrytis), humid weather.",
+  "signs": [
+   "Pale yellow to brown spots or streaks on leaf tips",
+   "Leaves dry from the tip down"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Improve airflow and drainage.",
+   "Ask local extension about fungicides."
+  ],
+  "prevention": [
+   "Rotation",
+   "Clean seed cloves",
+   "Avoid overhead watering"
+  ],
+  "lookalikes": [
+   "garlic__rust"
+  ],
+  "tier": "B"
+ },
+ "garlic__rust": {
+  "title": "Rust (garlic)",
+  "crop": "Garlic",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia allii), cool humid weather.",
+  "signs": [
+   "Small orange powdery pustules on leaves",
+   "Leaves yellow and dry early"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Ask local extension about fungicides if severe."
+  ],
+  "prevention": [
+   "Rotation",
+   "Clean planting stock",
+   "Avoid dense planting"
+  ],
+  "lookalikes": [
+   "garlic__leaf_blight"
+  ],
+  "tier": "B"
+ },
+ "ginger__healthy": {
+  "title": "Healthy ginger leaf",
+  "crop": "Ginger",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Provide partial shade and well-drained soil.",
+   "Mulch to hold moisture."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "ginger__leaf_spot": {
+  "title": "Leaf spot (ginger)",
+  "crop": "Ginger",
+  "kind": "disease",
+  "cause": "Fungal leaf spot (e.g. Phyllosticta), wet weather.",
+  "signs": [
+   "Oval white to brown spots with a yellow halo",
+   "Spots merge and leaves dry"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Improve drainage and airflow.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Healthy rhizomes",
+   "Rotation",
+   "Good drainage"
+  ],
+  "lookalikes": [
+   "ginger__sheath_blight"
+  ],
+  "tier": "B"
+ },
+ "ginger__sheath_blight": {
+  "title": "Sheath blight (ginger)",
+  "crop": "Ginger",
+  "kind": "disease",
+  "cause": "Fungus (Rhizoctonia), warm humid conditions.",
+  "signs": [
+   "Water-soaked lesions on leaf sheaths",
+   "Lesions spread up and rot stems"
+  ],
+  "actions": [
+   "Remove infected plants.",
+   "Improve drainage.",
+   "Ask local extension about treatment."
+  ],
+  "prevention": [
+   "Rotation",
+   "Clean planting material",
+   "Avoid waterlogging"
+  ],
+  "lookalikes": [
+   "ginger__leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "lettuce__healthy": {
+  "title": "Healthy lettuce leaf",
+  "crop": "Lettuce",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water in the morning at the base.",
+   "Space for airflow."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "lettuce__downy_mildew": {
+  "title": "Downy mildew (lettuce)",
+  "crop": "Lettuce",
+  "kind": "disease",
+  "cause": "Oomycete (Bremia lactucae), cool humid weather.",
+  "signs": [
+   "Yellow angular patches on upper leaves",
+   "White fuzz underneath",
+   "Leaves turn brown"
+  ],
+  "actions": [
+   "Remove infected plants.",
+   "Avoid wetting leaves.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Wide spacing",
+   "Rotation"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "lettuce__mosaic_virus": {
+  "title": "Lettuce mosaic virus",
+  "crop": "Lettuce",
+  "kind": "disease",
+  "cause": "Virus carried in seed and spread by aphids. No cure.",
+  "signs": [
+   "Mottled, crinkled leaves",
+   "Stunted plants",
+   "Poor heads"
+  ],
+  "actions": [
+   "Remove infected plants.",
+   "Control aphids.",
+   "Do not save seed from infected plants."
+  ],
+  "prevention": [
+   "Virus-indexed seed",
+   "Aphid control"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "maple__healthy": {
+  "title": "Healthy maple leaf",
+  "crop": "Maple",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water young trees in dry spells.",
+   "Rake fallen leaves in autumn."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "maple__tar_spot": {
+  "title": "Tar spot (maple)",
+  "crop": "Maple",
+  "kind": "disease",
+  "cause": "Fungus (Rhytisma), spreads by spores in wet spring weather.",
+  "signs": [
+   "Raised black tar-like spots on leaves",
+   "Yellow halo around spots"
+  ],
+  "actions": [
+   "Rake and destroy fallen leaves.",
+   "Usually cosmetic; healthy trees tolerate it."
+  ],
+  "prevention": [
+   "Leaf clean-up each autumn"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "plum__healthy": {
+  "title": "Healthy plum leaf",
+  "crop": "Plum",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Prune in dry weather for airflow.",
+   "Remove fallen fruit and leaves."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "plum__pocket_disease": {
+  "title": "Plum pocket (pocket plum)",
+  "crop": "Plum",
+  "kind": "disease",
+  "cause": "Fungus (Taphrina communis) infecting flowers and young fruit in cool wet spring.",
+  "signs": [
+   "Fruit become hollow, swollen and bladder-like",
+   "Leaves may be puckered"
+  ],
+  "actions": [
+   "Remove and destroy affected fruit before they mature.",
+   "Ask local extension about spring protectant sprays."
+  ],
+  "prevention": [
+   "Prune for airflow",
+   "Clean up fallen fruit"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "rice__healthy": {
+  "title": "Healthy rice leaf",
+  "crop": "Rice",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Manage water levels.",
+   "Avoid excess nitrogen.",
+   "Scout fields weekly."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "rice__blast": {
+  "title": "Rice blast",
+  "crop": "Rice",
+  "kind": "disease",
+  "cause": "Fungus (Magnaporthe oryzae), spreads in humid weather and with heavy nitrogen use.",
+  "signs": [
+   "Diamond-shaped grey spots with brown margins on leaves",
+   "Neck rot at the panicle in severe cases"
+  ],
+  "actions": [
+   "Avoid excess nitrogen.",
+   "Drain and manage water properly.",
+   "Ask local extension about fungicide timing."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Balanced fertiliser",
+   "Clean seed"
+  ],
+  "lookalikes": [
+   "rice__sheath_blight"
+  ],
+  "tier": "B"
+ },
+ "rice__sheath_blight": {
+  "title": "Sheath blight (rice)",
+  "crop": "Rice",
+  "kind": "disease",
+  "cause": "Fungus (Rhizoctonia solani), dense crops and high humidity.",
+  "signs": [
+   "Oval greenish-grey lesions on the sheath near the water line",
+   "Lesions spread upward"
+  ],
+  "actions": [
+   "Reduce plant density and excess nitrogen.",
+   "Drain fields as advised.",
+   "Ask local extension about fungicide."
+  ],
+  "prevention": [
+   "Moderate nitrogen",
+   "Wider spacing",
+   "Residue management"
+  ],
+  "lookalikes": [
+   "rice__blast"
+  ],
+  "tier": "A"
+ },
+ "tobacco__healthy": {
+  "title": "Healthy tobacco leaf",
+  "crop": "Tobacco",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Rotate crops.",
+   "Scout for mosaic patterns."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "tobacco__mosaic_virus": {
+  "title": "Tobacco mosaic virus",
+  "crop": "Tobacco",
+  "kind": "disease",
+  "cause": "Virus spread by contact (hands, tools). No cure.",
+  "signs": [
+   "Mottled light and dark green leaves",
+   "Distorted, narrow leaves",
+   "Stunted growth"
+  ],
+  "actions": [
+   "Remove and bag infected plants.",
+   "Wash hands and disinfect tools.",
+   "Do not smoke or handle tobacco before touching plants."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Clean tools",
+   "Certified seed"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "zucchini__yellow_mosaic_virus": {
+  "title": "Zucchini yellow mosaic virus",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Virus spread by aphids. No cure.",
+  "signs": [
+   "Yellow mosaic patches on leaves",
+   "Distorted, narrow leaves",
+   "Bumpy deformed fruit"
+  ],
+  "actions": [
+   "Remove and bag infected plants.",
+   "Control aphids.",
+   "Do not compost infected plants."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Aphid control",
+   "Row covers"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "apple__mosaic_virus": {
+  "title": "Apple mosaic virus",
+  "crop": "Apple",
+  "kind": "disease",
+  "cause": "Virus spread by grafting and infected stock. No cure.",
+  "signs": [
+   "Cream to yellow patches or bands on leaves",
+   "Reduced vigour"
+  ],
+  "actions": [
+   "Report severe cases to local advisers.",
+   "Do not graft from infected trees."
+  ],
+  "prevention": [
+   "Certified virus-free rootstock"
+  ],
+  "lookalikes": [
+   "apple__scab"
+  ],
+  "tier": "B"
+ },
+ "cherry__leaf_spot": {
+  "title": "Cherry leaf spot",
+  "crop": "Cherry",
+  "kind": "disease",
+  "cause": "Fungus (Blumeriella jaapii), wet spring weather.",
+  "signs": [
+   "Small purple spots turning brown, with holes ('shot-hole')",
+   "Yellow leaves that drop early"
+  ],
+  "actions": [
+   "Rake and destroy fallen leaves.",
+   "Prune for airflow.",
+   "Ask local extension about spray timing."
+  ],
+  "prevention": [
+   "Leaf clean-up",
+   "Open canopy"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "corn__smut": {
+  "title": "Corn smut",
+  "crop": "Corn / maize",
+  "kind": "disease",
+  "cause": "Fungus (Ustilago maydis), infects through wounds.",
+  "signs": [
+   "Large grey-white swollen galls on ears, stalks or leaves",
+   "Galls turn black and burst into spores"
+  ],
+  "actions": [
+   "Remove and destroy galls before they burst.",
+   "Avoid crop injury.",
+   "Rotate crops."
+  ],
+  "prevention": [
+   "Resistant hybrids",
+   "Avoid wounding plants"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "grape__downy_mildew": {
+  "title": "Downy mildew (grape)",
+  "crop": "Grape",
+  "kind": "disease",
+  "cause": "Oomycete (Plasmopara viticola), warm wet weather.",
+  "signs": [
+   "Yellow oily patches on upper leaf surface",
+   "White downy growth underneath",
+   "Shrivelled berries"
+  ],
+  "actions": [
+   "Remove infected leaves and shoots.",
+   "Open the canopy.",
+   "Ask local extension about spray programme."
+  ],
+  "prevention": [
+   "Canopy management",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "grape__black_rot",
+   "grape__leaf_blight"
+  ],
+  "tier": "A"
+ },
+ "grape__esca": {
+  "title": "Esca / black measles (grape)",
+  "crop": "Grape",
+  "kind": "disease",
+  "cause": "Wood-decay fungi in the vine.",
+  "signs": [
+   "Yellow or red 'tiger stripe' pattern between veins",
+   "Dark spots on berries",
+   "Vine decline"
+  ],
+  "actions": [
+   "Mark and prune out affected wood in dry weather.",
+   "Disinfect pruning tools.",
+   "Ask local extension for options."
+  ],
+  "prevention": [
+   "Protect pruning wounds",
+   "Clean tools"
+  ],
+  "lookalikes": [
+   "grape__leaf_blight"
+  ],
+  "tier": "C"
+ },
+ "grape__leafroll_disease": {
+  "title": "Grapevine leafroll disease",
+  "crop": "Grape",
+  "kind": "disease",
+  "cause": "Virus spread by mealybugs and infected planting material. No cure.",
+  "signs": [
+   "Leaf edges roll downward",
+   "Red or yellow colour between green veins in autumn",
+   "Reduced yield"
+  ],
+  "actions": [
+   "Remove infected vines where advised.",
+   "Control mealybugs.",
+   "Use only clean planting material."
+  ],
+  "prevention": [
+   "Certified virus-free vines",
+   "Mealybug control"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "peach__bacterial_spot": {
+  "title": "Bacterial spot (peach)",
+  "crop": "Peach",
+  "kind": "disease",
+  "cause": "Bacteria (Xanthomonas arboricola pv. pruni), spread by rain.",
+  "signs": [
+   "Small dark angular spots on leaves",
+   "Spots drop out leaving holes",
+   "Pitted fruit"
+  ],
+  "actions": [
+   "Prune for airflow.",
+   "Avoid excess nitrogen.",
+   "Ask local extension about copper options."
+  ],
+  "prevention": [
+   "Tolerant varieties",
+   "Windbreaks"
+  ],
+  "lookalikes": [],
+  "tier": "C"
+ },
+ "peach__leaf_curl": {
+  "title": "Peach leaf curl",
+  "crop": "Peach",
+  "kind": "disease",
+  "cause": "Fungus (Taphrina deformans), infects buds in cool wet spring.",
+  "signs": [
+   "Thickened, red-pink puckered curled leaves",
+   "Leaves later turn grey and drop"
+  ],
+  "actions": [
+   "Remove and destroy affected leaves.",
+   "Apply protection only in late winter before bud swell: ask local extension."
+  ],
+  "prevention": [
+   "Rain cover for small trees",
+   "Dormant-season protection"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "squash__healthy": {
+  "title": "Healthy squash leaf",
+  "crop": "Squash",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Water at the base.",
+   "Give room for airflow.",
+   "Scout for mildew."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "strawberry__anthracnose": {
+  "title": "Anthracnose (strawberry)",
+  "crop": "Strawberry",
+  "kind": "disease",
+  "cause": "Fungus (Colletotrichum), warm wet weather.",
+  "signs": [
+   "Dark sunken lesions on runners and stalks",
+   "Leaf spots",
+   "Plant wilting and crown rot"
+  ],
+  "actions": [
+   "Remove infected plants.",
+   "Avoid overhead watering.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Clean planting stock",
+   "Drip irrigation"
+  ],
+  "lookalikes": [
+   "strawberry__leaf_scorch"
+  ],
+  "tier": "B"
+ },
+ "tomato__spider_mites": {
+  "title": "Spider mites (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Tiny mites (Tetranychus urticae) feeding on leaves; worse in hot dry weather.",
+  "signs": [
+   "Fine yellow stippling on leaves",
+   "Fine webbing under leaves",
+   "Leaves bronze and dry"
+  ],
+  "actions": [
+   "Spray leaves with water to knock mites off.",
+   "Remove heavily infested leaves.",
+   "Ask local extension about miticides or beneficial predators."
+  ],
+  "prevention": [
+   "Keep plants watered",
+   "Avoid dusty conditions"
+  ],
+  "lookalikes": [
+   "tomato__yellow_leaf_curl_virus"
+  ],
+  "tier": "A"
+ },
+ "tomato__target_spot": {
+  "title": "Target spot (tomato)",
+  "crop": "Tomato",
+  "kind": "disease",
+  "cause": "Fungus (Corynespora cassiicola), warm humid weather.",
+  "signs": [
+   "Brown spots with concentric rings on leaves",
+   "Spots on fruit"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Improve airflow.",
+   "Ask local extension about fungicide."
+  ],
+  "prevention": [
+   "Rotation",
+   "Staking",
+   "Drip irrigation"
+  ],
+  "lookalikes": [
+   "tomato__early_blight"
+  ],
+  "tier": "C"
+ },
+ "banana__anthracnose": {
+  "title": "Anthracnose (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Colletotrichum musae), spreads by rain splash in warm humid weather.",
+  "signs": [
+   "Dark brown to black sunken spots on leaves or fruit",
+   "Spots may have a yellow edge",
+   "Affected areas dry and crack"
+  ],
+  "actions": [
+   "Remove and destroy infected leaves and fruit.",
+   "Handle fruit gently to avoid wounds.",
+   "Ask local extension about approved fungicides if severe."
+  ],
+  "prevention": [
+   "Keep the plantation clean of dead leaves",
+   "Avoid overcrowding",
+   "Handle and store fruit carefully"
+  ],
+  "lookalikes": [
+   "banana__sigatoka",
+   "banana__cordana_leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "banana__bunchy_top": {
+  "title": "Bunchy top virus (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Virus spread by banana aphids and by infected planting material. No cure.",
+  "signs": [
+   "Dark green streaks on leaf veins and stalks",
+   "New leaves are short, narrow and bunched at the top",
+   "Plant is stunted and gives little or no fruit"
+  ],
+  "actions": [
+   "Remove and destroy infected plants including the roots.",
+   "Control aphids.",
+   "Report to the local agriculture office: it is often notifiable."
+  ],
+  "prevention": [
+   "Use certified virus-free planting material",
+   "Do not move suckers from infected areas",
+   "Control aphids"
+  ],
+  "lookalikes": [
+   "banana__bract_mosaic_virus"
+  ],
+  "tier": "B"
+ },
+ "banana__cordana_leaf_spot": {
+  "title": "Cordana leaf spot (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Cordana musae), favoured by wet weather and humid plantations.",
+  "signs": [
+   "Large oval spots with a pale centre and a yellow edge",
+   "Spots often start at the leaf margin",
+   "Spots may merge and dry out large areas"
+  ],
+  "actions": [
+   "Remove badly affected leaves.",
+   "Improve air flow by thinning and weeding.",
+   "Ask local extension if it keeps spreading."
+  ],
+  "prevention": [
+   "Good drainage",
+   "Avoid dense planting",
+   "Remove dead leaves regularly"
+  ],
+  "lookalikes": [
+   "banana__sigatoka",
+   "banana__pestalotiopsis_leaf_spot"
+  ],
+  "tier": "A"
+ },
+ "banana__sigatoka": {
+  "title": "Sigatoka leaf spot (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Mycosphaerella species, black and yellow Sigatoka), spreads by wind and rain in warm humid weather.",
+  "signs": [
+   "Small yellow or brown streaks on the leaf that grow into dark spots with a yellow halo",
+   "Spots join and large parts of the leaf turn brown and die",
+   "Leaves collapse early and the plant weakens"
+  ],
+  "actions": [
+   "Cut off and destroy badly affected leaves.",
+   "Improve drainage and plant spacing for air flow.",
+   "Ask local extension which fungicide programme is approved in your area."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Regular removal of dead leaves",
+   "Good drainage and weed control"
+  ],
+  "lookalikes": [
+   "banana__cordana_leaf_spot",
+   "banana__pestalotiopsis_leaf_spot"
+  ],
+  "tier": "A"
+ },
+ "banana__bract_mosaic_virus": {
+  "title": "Bract mosaic virus (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected planting material. No cure.",
+  "signs": [
+   "Reddish-brown streaks on leaves, stems and the flower bract",
+   "Streaks run across the leaf vein",
+   "Poor, small bunches"
+  ],
+  "actions": [
+   "Remove and destroy infected plants.",
+   "Control aphids.",
+   "Do not use suckers from infected plants."
+  ],
+  "prevention": [
+   "Use virus-free planting material",
+   "Control aphids and weeds",
+   "Inspect plants regularly"
+  ],
+  "lookalikes": [
+   "banana__bunchy_top"
+  ],
+  "tier": "B"
+ },
+ "banana__moko_disease": {
+  "title": "Moko disease (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Soil and insect-spread bacterium (Ralstonia solanacearum). No cure. Often notifiable.",
+  "signs": [
+   "Young leaves turn yellow and then collapse",
+   "Brown to black discolouration inside the stem when cut",
+   "Fruit ripens unevenly and rots inside"
+  ],
+  "actions": [
+   "Report to the local agriculture authority.",
+   "Remove and destroy infected plants; do not move soil or plant parts.",
+   "Disinfect tools and boots between plots."
+  ],
+  "prevention": [
+   "Clean planting material",
+   "Disinfect cutting tools",
+   "Control insects that visit the flowers"
+  ],
+  "lookalikes": [
+   "banana__panama_disease"
+  ],
+  "tier": "B"
+ },
+ "banana__pestalotiopsis_leaf_spot": {
+  "title": "Pestalotiopsis leaf spot (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Pestalotiopsis), often enters through wounds in wet weather.",
+  "signs": [
+   "Dark brown spots with grey centres and a yellow edge",
+   "Spots join into larger dead patches",
+   "Leaf edges dry and tear"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Avoid wounding leaves during work.",
+   "Ask local extension if the spots keep spreading."
+  ],
+  "prevention": [
+   "Keep the plantation clean",
+   "Good drainage",
+   "Avoid damaged leaves"
+  ],
+  "lookalikes": [
+   "banana__cordana_leaf_spot",
+   "banana__sigatoka"
+  ],
+  "tier": "A"
+ },
+ "blueberry__scorch": {
+  "title": "Blueberry scorch virus",
+  "crop": "Blueberry",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected plants. No cure.",
+  "signs": [
+   "Flowers and young leaves turn brown suddenly as if scorched",
+   "Blossoms wilt and drop",
+   "Shoots die back from the tip"
+  ],
+  "actions": [
+   "Remove and destroy infected bushes.",
+   "Control aphids.",
+   "Contact local extension: this virus is often regulated."
+  ],
+  "prevention": [
+   "Certified virus-free plants",
+   "Aphid control",
+   "Do not move plants from infected fields"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "broccoli__alternaria_leaf_spot": {
+  "title": "Alternaria leaf spot (broccoli)",
+  "crop": "Broccoli",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria), spreads by seed, wind and splashing water in warm humid weather.",
+  "signs": [
+   "Round brown spots with rings like a target",
+   "Yellow halo around the spots",
+   "Spots can reach the head"
+  ],
+  "actions": [
+   "Remove badly infected leaves.",
+   "Keep leaves dry; water at the base.",
+   "Ask local extension about approved fungicides if it spreads."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotate crops for 2-3 years",
+   "Remove crop residue"
+  ],
+  "lookalikes": [
+   "cabbage__alternaria_leaf_spot",
+   "broccoli__downy_mildew"
+  ],
+  "tier": "B"
+ },
+ "cabbage__black_rot": {
+  "title": "Black rot (cabbage)",
+  "crop": "Cabbage",
+  "kind": "disease",
+  "cause": "Bacterium (Xanthomonas campestris), seed-borne, spreads by rain splash and in warm humid weather.",
+  "signs": [
+   "Yellow V-shaped patches starting at the leaf edge",
+   "Veins turn black inside the patch",
+   "Leaves wither and the head may rot"
+  ],
+  "actions": [
+   "Remove and destroy infected plants.",
+   "Avoid working in the crop when wet.",
+   "Ask local extension about options; there is no cure once it starts."
+  ],
+  "prevention": [
+   "Disease-free or treated seed",
+   "Rotate with non-cabbage crops for 2-3 years",
+   "Control weeds in the cabbage family"
+  ],
+  "lookalikes": [
+   "cabbage__alternaria_leaf_spot",
+   "cabbage__downy_mildew"
+  ],
+  "tier": "B"
+ },
+ "cabbage__downy_mildew": {
+  "title": "Downy mildew (cabbage)",
+  "crop": "Cabbage",
+  "kind": "disease",
+  "cause": "Oomycete (Hyaloperonospora), cool damp weather.",
+  "signs": [
+   "Yellow to brown angular patches on upper leaf surface",
+   "White-grey fuzz underneath in humid weather",
+   "Dark spots on the head"
+  ],
+  "actions": [
+   "Improve air flow and avoid wetting leaves.",
+   "Remove badly infected leaves.",
+   "Ask local extension about treatments if severe."
+  ],
+  "prevention": [
+   "Wider spacing",
+   "Resistant varieties",
+   "Water in the morning at the base"
+  ],
+  "lookalikes": [
+   "cabbage__black_rot",
+   "broccoli__downy_mildew"
+  ],
+  "tier": "B"
+ },
+ "carrot__alternaria_leaf_blight": {
+  "title": "Alternaria leaf blight (carrot)",
+  "crop": "Carrot",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria dauci), spreads in warm humid weather and on seed.",
+  "signs": [
+   "Dark brown to black spots with a yellow halo on leaf edges",
+   "Leaves curl, yellow and die",
+   "Tops collapse and roots can be small"
+  ],
+  "actions": [
+   "Remove badly infected leaves.",
+   "Avoid overhead watering.",
+   "Ask local extension about approved fungicides if severe."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotate crops for 2-3 years",
+   "Remove crop residue after harvest"
+  ],
+  "lookalikes": [
+   "carrot__cavity_spot"
+  ],
+  "tier": "B"
+ },
+ "coffee__brown_eye_spot": {
+  "title": "Brown eye spot (coffee)",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora coffeicola), worse in plants stressed by sun, drought or poor feeding.",
+  "signs": [
+   "Round brown spots with a pale centre and a yellow ring",
+   "Spots on leaves and berries",
+   "Leaves drop early"
+  ],
+  "actions": [
+   "Improve feeding and shade; stressed plants get it more.",
+   "Remove heavily spotted leaves where practical.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Balanced fertiliser",
+   "Shade and pruning management",
+   "Good watering"
+  ],
+  "lookalikes": [
+   "coffee__leaf_rust",
+   "coffee__phoma_leaf_spot"
+  ],
+  "tier": "A"
+ },
+ "coffee__leaf_miner": {
+  "title": "Leaf miner damage (coffee)",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Tiny insect larvae (Leucoptera coffeella) that tunnel inside the leaf. It is a pest, not a fungus.",
+  "signs": [
+   "Irregular pale or brown blotches on the upper leaf",
+   "Blotches look like blisters and later tear",
+   "Leaves drop early"
+  ],
+  "actions": [
+   "Ask local extension about leaf miner control.",
+   "Protect natural enemies such as wasps.",
+   "Avoid dusty, hot, dry conditions."
+  ],
+  "prevention": [
+   "Shade management",
+   "Regular checks in the dry season",
+   "Keep trees healthy"
+  ],
+  "lookalikes": [
+   "coffee__brown_eye_spot",
+   "coffee__phoma_leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "coffee__phoma_leaf_spot": {
+  "title": "Phoma leaf spot (coffee)",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Fungus (Phoma), favoured by cool wet weather and strong wind.",
+  "signs": [
+   "Dark brown to black spots on young leaves and shoot tips",
+   "Spots may merge and kill the tip",
+   "Leaves curl and drop"
+  ],
+  "actions": [
+   "Remove and destroy affected tips and leaves.",
+   "Provide windbreaks and shade.",
+   "Ask local extension about approved options."
+  ],
+  "prevention": [
+   "Windbreaks",
+   "Shade",
+   "Balanced nutrition"
+  ],
+  "lookalikes": [
+   "coffee__brown_eye_spot",
+   "coffee__leaf_miner"
+  ],
+  "tier": "A"
+ },
+ "soybean__bacterial_blight": {
+  "title": "Bacterial blight (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Bacterium (Pseudomonas savastanoi pv. glycinea), spreads by rain splash and wind in cool wet weather.",
+  "signs": [
+   "Small angular water-soaked spots that turn brown",
+   "Yellow halo around the spots",
+   "Spots join and the middle may fall out"
+  ],
+  "actions": [
+   "Avoid working in wet fields.",
+   "Rotate with non-soybean crops.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Crop rotation",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "soybean__brown_spot",
+   "soybean__frogeye_leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "soybean__brown_spot": {
+  "title": "Brown spot (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Fungus (Septoria glycines), survives on residue; warm wet weather.",
+  "signs": [
+   "Small dark brown irregular spots on lower leaves first",
+   "Leaves yellow and drop early",
+   "Spots may join"
+  ],
+  "actions": [
+   "Rotate with non-soybean crops.",
+   "Manage crop residue.",
+   "Ask local extension about fungicide if it climbs the plant."
+  ],
+  "prevention": [
+   "Rotation",
+   "Residue management",
+   "Healthy seed"
+  ],
+  "lookalikes": [
+   "soybean__bacterial_blight",
+   "soybean__frogeye_leaf_spot"
+  ],
+  "tier": "B"
+ },
+ "soybean__downy_mildew": {
+  "title": "Downy mildew (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Oomycete (Peronospora manshurica), cool humid weather; survives on seed and residue.",
+  "signs": [
+   "Pale green to yellow patches on upper leaf surface",
+   "Grey fuzz underneath in humid weather",
+   "Patches turn brown and dry"
+  ],
+  "actions": [
+   "Rotate crops.",
+   "Remove infected residue.",
+   "Ask local extension about options if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Clean seed",
+   "Rotation"
+  ],
+  "lookalikes": [
+   "soybean__rust",
+   "soybean__brown_spot"
+  ],
+  "tier": "B"
+ },
+ "soybean__frogeye_leaf_spot": {
+  "title": "Frogeye leaf spot (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora sojina), warm humid weather; survives on seed and residue.",
+  "signs": [
+   "Round to angular spots with a grey centre and a reddish-brown border",
+   "Spots on the upper leaf surface",
+   "Spots may join and kill leaf parts"
+  ],
+  "actions": [
+   "Rotate with non-soybean crops.",
+   "Remove or bury crop residue.",
+   "Ask local extension about fungicide if it spreads."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Clean seed",
+   "Crop rotation"
+  ],
+  "lookalikes": [
+   "soybean__brown_spot",
+   "soybean__bacterial_blight"
+  ],
+  "tier": "B"
+ },
+ "soybean__rust": {
+  "title": "Rust (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Fungus (Phakopsora pachyrhizi), spreads quickly by wind in warm humid weather. Serious disease.",
+  "signs": [
+   "Tiny tan to reddish-brown spots, mostly on the underside",
+   "Small raised pustules in the spots",
+   "Leaves yellow and drop early"
+  ],
+  "actions": [
+   "Act quickly: check nearby fields.",
+   "Contact local extension urgently about fungicide timing.",
+   "Remove volunteer soybean and alternate host plants."
+  ],
+  "prevention": [
+   "Early planting",
+   "Resistant varieties",
+   "Regular scouting"
+  ],
+  "lookalikes": [
+   "soybean__brown_spot",
+   "soybean__downy_mildew"
+  ],
+  "tier": "B"
+ },
+ "tobacco__blue_mold": {
+  "title": "Blue mold (tobacco)",
+  "crop": "Tobacco",
+  "kind": "disease",
+  "cause": "Oomycete (Peronospora tabacina), spreads by wind in cool damp weather. Spreads very fast.",
+  "signs": [
+   "Yellow patches on upper leaf surface",
+   "Grey-blue fuzz underneath",
+   "Leaves curl and die"
+  ],
+  "actions": [
+   "Act quickly; remove infected seedlings or plants.",
+   "Improve air flow and reduce leaf wetness.",
+   "Contact local extension urgently."
+  ],
+  "prevention": [
+   "Healthy seedlings",
+   "Good spacing and ventilation",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "tobacco__brown_spot"
+  ],
+  "tier": "B"
+ },
+ "tobacco__brown_spot": {
+  "title": "Brown spot (tobacco)",
+  "crop": "Tobacco",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria alternata), favoured by warm humid weather and older plants.",
+  "signs": [
+   "Round brown spots with rings, starting on lower leaves",
+   "Spots may have a yellow edge",
+   "Leaves tear and dry out"
+  ],
+  "actions": [
+   "Remove lower infected leaves.",
+   "Avoid overhead watering.",
+   "Ask local extension about options if severe."
+  ],
+  "prevention": [
+   "Balanced fertiliser",
+   "Crop rotation",
+   "Harvest on time"
+  ],
+  "lookalikes": [
+   "tobacco__blue_mold"
+  ],
+  "tier": "B"
+ },
+ "wheat__healthy": {
+  "title": "Healthy wheat leaf",
+  "crop": "Wheat",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Scout weekly for rust pustules or spots.",
+   "Keep nitrogen balanced.",
+   "Rotate with non-cereal crops."
+  ],
+  "prevention": [],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "wheat__bacterial_leaf_streak": {
+  "title": "Bacterial leaf streak / black chaff (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Bacterium (Xanthomonas translucens), seed-borne, spreads by rain and wind.",
+  "signs": [
+   "Narrow water-soaked streaks along the leaf",
+   "Streaks turn brown or yellow with a shiny surface",
+   "Dark streaks on the ear (black chaff)"
+  ],
+  "actions": [
+   "Rotate with non-cereal crops.",
+   "Remove crop residue.",
+   "Ask local extension about options; there is no cure."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotation",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "wheat__septoria_blotch"
+  ],
+  "tier": "B"
+ },
+ "wheat__leaf_rust": {
+  "title": "Leaf rust (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia triticina), spreads by wind in mild humid weather.",
+  "signs": [
+   "Small round orange-brown pustules scattered on the leaf",
+   "Pustules mostly on the upper side",
+   "Leaves yellow and die early"
+  ],
+  "actions": [
+   "Check nearby fields and scout weekly.",
+   "Ask local extension about fungicide timing.",
+   "Remove volunteer wheat."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Timely planting",
+   "Regular scouting"
+  ],
+  "lookalikes": [
+   "wheat__stripe_rust",
+   "wheat__stem_rust"
+  ],
+  "tier": "B"
+ },
+ "wheat__powdery_mildew": {
+  "title": "Powdery mildew (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Blumeria graminis), favoured by cool humid weather and dense crops.",
+  "signs": [
+   "White powdery patches on leaves and stems",
+   "Patches turn grey-brown with small black dots",
+   "Leaves yellow and dry"
+  ],
+  "actions": [
+   "Avoid very dense sowing and excess nitrogen.",
+   "Ask local extension about fungicide if severe.",
+   "Remove volunteer wheat."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Balanced nitrogen",
+   "Good spacing"
+  ],
+  "lookalikes": [],
+  "tier": "A"
+ },
+ "wheat__septoria_blotch": {
+  "title": "Septoria leaf blotch (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Zymoseptoria tritici), spreads by rain splash in cool wet weather; survives on residue.",
+  "signs": [
+   "Pale yellow to brown blotches, often rectangular",
+   "Tiny black dots inside the blotches",
+   "Lower leaves first, then upwards"
+  ],
+  "actions": [
+   "Rotate crops and manage residue.",
+   "Ask local extension about fungicide timing.",
+   "Avoid very early sowing."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Rotation",
+   "Residue management"
+  ],
+  "lookalikes": [
+   "wheat__bacterial_leaf_streak"
+  ],
+  "tier": "B"
+ },
+ "wheat__stem_rust": {
+  "title": "Stem rust (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia graminis), spreads fast by wind in warm humid weather. Serious disease.",
+  "signs": [
+   "Dark red-brown raised pustules on stems and leaves",
+   "Pustules rough and powdery, often on both sides",
+   "Stems weaken and plants lodge"
+  ],
+  "actions": [
+   "Act quickly: check neighbouring fields.",
+   "Contact local extension urgently about fungicide.",
+   "Remove volunteer wheat and barberry nearby."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Early planting",
+   "Regular scouting"
+  ],
+  "lookalikes": [
+   "wheat__leaf_rust",
+   "wheat__stripe_rust"
+  ],
+  "tier": "B"
+ },
+ "wheat__stripe_rust": {
+  "title": "Stripe rust (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia striiformis), spreads by wind in cool moist weather. Serious disease.",
+  "signs": [
+   "Yellow to orange powdery stripes running along the leaf veins",
+   "Stripes on leaves and sometimes on the ear",
+   "Leaves turn yellow and dry"
+  ],
+  "actions": [
+   "Act quickly: scout nearby fields.",
+   "Ask local extension urgently about fungicide timing.",
+   "Remove volunteer wheat."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Early monitoring in cool wet weather",
+   "Timely planting"
+  ],
+  "lookalikes": [
+   "wheat__leaf_rust",
+   "wheat__stem_rust"
+  ],
+  "tier": "A"
+ },
+ "zucchini__bacterial_wilt": {
+  "title": "Bacterial wilt (zucchini)",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Bacterium (Erwinia tracheiphila) spread by cucumber beetles. No cure.",
+  "signs": [
+   "Leaves and vines suddenly wilt",
+   "Sticky white ooze from cut stems",
+   "Plant collapses in days"
+  ],
+  "actions": [
+   "Remove and destroy wilted plants.",
+   "Control cucumber beetles.",
+   "Do not compost infected plants."
+  ],
+  "prevention": [
+   "Beetle control early",
+   "Row covers on young plants",
+   "Resistant varieties where available"
+  ],
+  "lookalikes": [],
+  "tier": "B"
+ },
+ "zucchini__downy_mildew": {
+  "title": "Downy mildew (zucchini)",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Oomycete (Pseudoperonospora cubensis), warm humid weather.",
+  "signs": [
+   "Yellow angular patches on the upper leaf surface",
+   "Grey-purple fuzz underneath in humid weather",
+   "Patches turn brown and leaves die"
+  ],
+  "actions": [
+   "Improve air flow and avoid wetting leaves.",
+   "Remove badly infected leaves.",
+   "Ask local extension about options if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Wider spacing",
+   "Morning watering at the base"
+  ],
+  "lookalikes": [
+   "zucchini__powdery_mildew"
+  ],
+  "tier": "B"
+ },
+ "zucchini__powdery_mildew": {
+  "title": "Powdery mildew (zucchini)",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Fungus (Podosphaera xanthii), warm days and humid nights.",
+  "signs": [
+   "White powdery patches on leaves and stems",
+   "Leaves yellow, then brown and die",
+   "Plants weaken and fruit is smaller"
+  ],
+  "actions": [
+   "Remove badly affected leaves.",
+   "Improve spacing and air flow.",
+   "Ask local extension about approved treatments."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Avoid overcrowding",
+   "Water at the base in the morning"
+  ],
+  "lookalikes": [
+   "zucchini__downy_mildew"
+  ],
+  "tier": "B"
+ },
+ "diseased_unnamed": {
+  "title": "Looks diseased, disease not identified",
+  "kind": "unnamed_disease",
+  "summary": "The leaf shows signs of disease, but it does not match any disease this app can name.",
+  "actions": [
+   "Do not treat on this result alone.",
+   "Show the leaf, or a clear photo, to a local agriculture officer.",
+   "Take another photo in daylight, one leaf filling the frame, to check again."
+  ],
+  "prevention": [],
+  "lookalikes": []
+ },
+ "soybean__mosaic_virus": {
+  "title": "Mosaic virus (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected seed. No cure.",
+  "signs": [
+   "Light and dark green mottling",
+   "Puckered, curled leaves",
+   "Stunted plants and poor pods"
+  ],
+  "actions": [
+   "Remove and bag infected plants.",
+   "Control aphids.",
+   "Do not save seed from infected plants."
+  ],
+  "prevention": [
+   "Certified virus-free seed",
+   "Control aphids and weeds"
+  ],
+  "lookalikes": [
+   "soybean__downy_mildew"
+  ],
+  "tier": "B"
+ }
+}

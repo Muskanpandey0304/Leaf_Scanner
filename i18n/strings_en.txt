@@ -1,0 +1,603 @@
+0|Not a supported plant / unclear photo
+1|This does not look like one of the supported crops, or the photo is unclear.
+2|Photograph a single leaf, filling the frame, in daylight.
+3|Avoid fruit, stems, whole fields or text/diagrams.
+4|Apple scab
+5|Fungus (Venturia inaequalis), spreads in cool wet spring weather.
+6|Olive-green to brown velvety spots on leaves
+7|Leaves may yellow, curl and drop early
+8|Dark corky spots on fruit
+9|Remove and destroy fallen and infected leaves.
+10|Prune to open the canopy so leaves dry faster.
+11|If severe, ask local extension which fungicide is approved for apples in your area.
+12|Rake leaves in autumn
+13|Choose scab-resistant varieties
+14|Avoid overhead watering
+15|Apple black rot / frogeye leaf spot
+16|Fungus (Botryosphaeria obtusa), survives on dead wood and mummified fruit.
+17|Round brown spots with purple edges (frogeye) on leaves
+18|Rotting fruit that turns brown to black
+19|Cankers on branches
+20|Prune out dead or cankered branches and remove mummified fruit.
+21|Destroy infected material away from the orchard.
+22|Ask local extension about approved fungicides if pressure is high.
+23|Keep trees pruned and healthy
+24|Clean up fruit and debris each season
+25|Cedar apple rust
+26|Fungus (Gymnosporangium) that needs both apple and juniper/cedar trees.
+27|Bright yellow-orange spots on the upper leaf surface
+28|Small tube-like structures under the spots later in the season
+29|Remove nearby juniper/cedar galls if practical.
+30|Remove heavily infected leaves.
+31|Ask local extension about preventive fungicide timing in spring.
+32|Plant rust-resistant varieties
+33|Keep apples away from junipers
+34|Healthy apple leaf
+35|No disease pattern recognised.
+36|Water at the base, not on leaves.
+37|Prune for airflow and light.
+38|Feed in spring according to a soil test.
+39|Bacterial spot (pepper)
+40|Bacteria (Xanthomonas), spread by splashing water and infected seed.
+41|Small dark water-soaked spots that turn brown with yellow halo
+42|Spots may merge; leaves yellow and drop
+43|Raised scabby spots on fruit
+44|Remove badly infected plants and leaves.
+45|Avoid working with wet plants and avoid overhead watering.
+46|Copper-based products are sometimes used; check local advice and the label.
+47|Use disease-free seed or transplants
+48|Rotate crops (2-3 years)
+49|Drip irrigation
+50|Healthy pepper leaf
+51|Even watering at the base.
+52|Stake plants and keep airflow.
+53|Rotate with non-solanaceous crops.
+54|Healthy blueberry leaf
+55|Keep soil acidic (pH about 4.5-5.5).
+56|Mulch to hold moisture.
+57|Prune old canes to improve airflow.
+58|Powdery mildew (cherry)
+59|Fungus (Podosphaera), favoured by warm days, cool humid nights.
+60|White powdery coating on leaves
+61|Leaves may curl or distort
+62|Prune to improve airflow.
+63|Remove heavily affected shoots.
+64|Ask local extension about approved fungicides if severe.
+65|Avoid excess nitrogen
+66|Plant in sun with good airflow
+67|Healthy cherry leaf
+68|Prune in dry weather.
+69|Avoid overhead watering.
+70|Remove fallen leaves in autumn.
+71|Common rust (corn)
+72|Fungus (Puccinia sorghi), spread by wind in cool humid weather.
+73|Small round to oval brick-red or brown raised pustules on both leaf surfaces
+74|Pustules turn dark with age
+75|Often mild; monitor spread to upper leaves.
+76|If severe before tasselling, ask local extension about fungicide.
+77|Plant resistant hybrids
+78|Plant early
+79|Gray leaf spot (corn)
+80|Fungus (Cercospora zeae-maydis), survives in crop residue; warm humid weather.
+81|Narrow rectangular tan to gray spots running parallel to leaf veins
+82|Spots may merge and kill large leaf areas
+83|Rotate away from corn and till or manage residue.
+84|Ask local extension about fungicide if the upper leaves are affected.
+85|Resistant hybrids
+86|Crop rotation
+87|Good field drainage
+88|Northern leaf blight (corn)
+89|Fungus (Exserohilum turcicum), cool moist weather, survives in residue.
+90|Long cigar-shaped gray-green to tan lesions, often 2.5-15 cm
+91|Lesions can join and blight the whole leaf
+92|Rotate crops and manage residue.
+93|Ask local extension about fungicide if it reaches upper leaves early.
+94|Rotation
+95|Healthy corn leaf
+96|Keep up regular nitrogen and water, especially at tasselling.
+97|Scout weekly for spots or pustules.
+98|Black rot (grape)
+99|Fungus (Guignardia bidwellii), warm wet weather; overwinters on mummified berries.
+100|Tan circular leaf spots with dark borders and tiny black dots
+101|Berries shrivel into hard black mummies
+102|Remove mummified berries and infected canes.
+103|Improve canopy airflow.
+104|Ask local extension about fungicide timing from early growth stages.
+105|Sanitation each winter
+106|Open canopy
+107|Grape leaf blight / leaf spot
+108|Fungal leaf spot (e.g. Isariopsis), favoured by humid conditions.
+109|Irregular dark brown spots on leaves
+110|Leaves may yellow and drop early
+111|Remove infected leaves and debris.
+112|Improve airflow through pruning and trellising.
+113|Ask local extension about fungicide if it spreads.
+114|Good canopy management
+115|Clean up fallen leaves
+116|Healthy grape leaf
+117|Keep the canopy open and trained.
+118|Water at the base.
+119|Healthy peach leaf
+120|Prune for airflow in dormant season.
+121|Remove fallen leaves and fruit.
+122|Early blight (potato)
+123|Fungus (Alternaria solani), stressed plants, warm humid conditions.
+124|Dark brown spots with concentric rings (target look) on older leaves first
+125|Yellowing around spots
+126|Remove infected lower leaves.
+127|Keep plants well fed and watered (stress makes it worse).
+128|Rotate crops (3 years)
+129|Certified seed potatoes
+130|Late blight (potato)
+131|Oomycete (Phytophthora infestans); spreads very fast in cool wet weather. Serious disease.
+132|Large water-soaked dark patches, often with pale green edge
+133|White fuzzy growth under leaves in humid weather
+134|Tubers rot
+135|Act quickly: remove and bag infected plants; do not compost.
+136|Do not harvest tubers from badly infected plants for storage.
+137|Contact local extension urgently for approved fungicides.
+138|Certified seed
+139|Destroy volunteer potatoes
+140|Resistant varieties
+141|Healthy potato leaf
+142|Hill soil around stems.
+143|Water evenly.
+144|Scout weekly, especially in cool wet weather.
+145|Healthy raspberry leaf
+146|Thin canes for airflow.
+147|Remove old fruited canes.
+148|Healthy soybean leaf
+149|Scout weekly for spots or yellowing.
+150|Rotate with non-legume crops.
+151|Powdery mildew (squash)
+152|Fungi, thrive in warm dry days and humid nights.
+153|White powdery patches on leaf surfaces
+154|Leaves yellow, then brown and die
+155|Remove badly affected leaves.
+156|Improve spacing and airflow.
+157|Ask local extension about approved treatments.
+158|Avoid overcrowding
+159|Water at the base in morning
+160|Leaf scorch (strawberry)
+161|Fungus (Diplocarpon earlianum), wet weather.
+162|Many small purple spots that enlarge
+163|Leaf edges look scorched and dry
+164|Remove infected leaves after harvest.
+165|Thin plants for airflow.
+166|Ask local extension about fungicide if severe.
+167|Renovate beds yearly
+168|Healthy strawberry leaf
+169|Mulch with straw.
+170|Remove old leaves after harvest.
+171|Bacterial spot (tomato)
+172|Bacteria (Xanthomonas), spread by splashing water; warm wet weather.
+173|Small dark greasy-looking spots on leaves, sometimes with yellow halo
+174|Rough scabby spots on fruit
+175|Remove badly infected leaves; avoid handling wet plants.
+176|Copper products are sometimes used; check local advice.
+177|Disease-free seed or transplants
+178|Early blight (tomato)
+179|Fungus (Alternaria solani), warm humid weather; affects stressed plants.
+180|Brown spots with concentric rings, starting on older lower leaves
+181|Mulch and water at the base.
+182|Stake plants for airflow
+183|Keep plants well fed and watered
+184|Late blight (tomato)
+185|Large greasy dark patches on leaves, often with pale edge
+186|White fuzz underneath in humid weather
+187|Firm brown rot on fruit
+188|Check nearby potatoes and tomatoes.
+189|Good spacing
+190|Leaf mold (tomato)
+191|Fungus (Passalora fulva), high humidity, common in greenhouses.
+192|Pale green-yellow patches on upper leaf surface
+193|Olive-green to brown velvety mold underneath
+194|Increase ventilation and lower humidity.
+195|Remove infected leaves.
+196|Ask local extension about fungicides if severe.
+197|Space plants
+198|Water at the base
+199|Septoria leaf spot (tomato)
+200|Fungus (Septoria lycopersici), splashing water, warm wet weather.
+201|Many small round spots with dark borders and gray centres, often with tiny black dots
+202|Starts on lower leaves
+203|Mulch to stop soil splash.
+204|Ask local extension about fungicide if it climbs the plant.
+205|Rotate crops
+206|Stake and prune for airflow
+207|Mosaic virus (tomato)
+208|Virus (ToMV/TMV), spread by hands, tools, seed. No cure.
+209|Mottled light and dark green mosaic pattern
+210|Leaves may be curled, narrow or distorted
+211|Stunted growth
+212|Remove and bag infected plants; do not compost.
+213|Wash hands and tools with soap or disinfectant between plants.
+214|Do not smoke or handle tobacco before touching plants.
+215|Clean tools
+216|Yellow leaf curl virus (tomato)
+217|Virus spread by whiteflies. No cure.
+218|Upward-curling, yellow-edged, small leaves
+219|Stunted bushy plants
+220|Few or no fruit
+221|Remove and bag infected plants early.
+222|Control whiteflies (yellow sticky traps, netting; ask local advice).
+223|Do not move plants from infected areas.
+224|Insect-proof netting for seedlings
+225|Remove weeds that harbour whiteflies
+226|Healthy tomato leaf
+227|Stake and prune lower leaves for airflow.
+228|Scout weekly, especially in humid weather.
+229|Healthy banana leaf
+230|Remove dead leaves regularly.
+231|Keep soil well drained and mulched.
+232|Scout for yellowing of older leaves.
+233|Panama disease (Fusarium wilt, banana)
+234|Soil-borne fungus (Fusarium oxysporum f. sp. cubense) entering through roots. No cure.
+235|Older leaves yellow, then collapse around the stem
+236|Brown to reddish discolouration inside the stem when cut
+237|Plants wilt and die
+238|Remove and destroy infected plants; do not move soil or suckers from the area.
+239|Clean tools and boots between plots.
+240|Contact local agricultural extension: this disease is often notifiable.
+241|Plant disease-free tissue-culture material
+242|Use resistant varieties
+243|Improve drainage and avoid moving soil
+244|Healthy basil leaf
+245|Water at the base in the morning.
+246|Pinch flowers and tips for bushy growth.
+247|Give good airflow.
+248|Downy mildew (basil)
+249|Oomycete (Peronospora belbahrii), spreads in humid conditions and on infected seed.
+250|Yellowing between leaf veins
+251|Grey to purple fuzzy growth under leaves
+252|Leaves curl and brown
+253|Remove and bag infected leaves or plants.
+254|Improve airflow and keep leaves dry.
+255|Ask local extension about options; fungicides are limited.
+256|Healthy bean leaf
+257|Scout for spots and mosaic patterns.
+258|Halo blight (bean)
+259|Bacteria (Pseudomonas syringae pv. phaseolicola), seed-borne, spread by rain splash in cool weather.
+260|Small water-soaked spots with a yellow-green halo
+261|Spots turn brown; leaves may drop
+262|Pods get greasy spots
+263|Remove badly infected plants.
+264|Avoid working in the crop when wet.
+265|Ask local extension about copper-based options.
+266|Use certified disease-free seed
+267|Bean mosaic virus
+268|Virus spread by aphids and infected seed. No cure.
+269|Light and dark green mottling
+270|Puckered, curled leaves
+271|Stunted plants and poor pods
+272|Remove and bag infected plants.
+273|Control aphids.
+274|Do not save seed from infected plants.
+275|Certified virus-free seed
+276|Control aphids and weeds
+277|Rust (bean)
+278|Fungus (Uromyces appendiculatus), spreads by wind in humid, mild weather.
+279|Small rusty-brown powdery pustules on leaves
+280|Yellow patches around them
+281|Early leaf drop
+282|Remove infected leaves and plant debris.
+283|Keep leaves dry and improve spacing.
+284|Clean up residue after harvest
+285|Rust (blueberry)
+286|Fungus that alternates with another host plant (often hemlock or conifers).
+287|Small yellow to orange pustules under leaves
+288|Yellow spots on top
+289|Remove and destroy infected leaves.
+290|Improve airflow by pruning.
+291|Ask local extension about fungicide timing.
+292|Remove alternate host plants nearby
+293|Prune for airflow
+294|Healthy broccoli leaf
+295|Water evenly at the base.
+296|Rotate with non-brassica crops.
+297|Scout for pests under leaves.
+298|Downy mildew (broccoli)
+299|Oomycete (Hyaloperonospora), cool damp conditions.
+300|Yellow to brown angular patches on upper leaves
+301|White-grey fuzz underneath
+302|Dark spots on heads
+303|Improve airflow and avoid wetting leaves.
+304|Ask local extension about treatments if severe.
+305|Wider spacing
+306|Healthy cabbage leaf
+307|Check under leaves for caterpillars and aphids.
+308|Alternaria leaf spot (cabbage)
+309|Fungus (Alternaria brassicicola), spread by seed, splash and wind in warm humid weather.
+310|Round brown spots with concentric rings
+311|Yellow halo around spots
+312|Spots may crack and join
+313|Use clean seed
+314|Rotate for 2-3 years
+315|Remove crop residue
+316|Cavity spot (carrot)
+317|Soil-borne Pythium fungi in wet, compacted soil. Mostly affects the root.
+318|Sunken elliptical lesions on the root
+319|Leaves may yellow in severe cases
+320|Improve drainage and avoid waterlogging.
+321|Harvest on time.
+322|Rotate fields.
+323|Well-drained soil
+324|Long crop rotations
+325|Healthy cauliflower leaf
+326|Protect from heat stress.
+327|Alternaria leaf spot (cauliflower)
+328|Fungus (Alternaria), warm humid weather, seed-borne.
+329|Brown spots with rings on leaves
+330|Yellow edges around spots
+331|Dark spots on curds
+332|Avoid wetting leaves.
+333|Ask local extension about fungicides if it spreads.
+334|Clean seed
+335|Residue clean-up
+336|Healthy celery leaf
+337|Keep soil evenly moist.
+338|Space plants for airflow.
+339|Anthracnose (celery)
+340|Fungal disease (Colletotrichum or Septoria-like), splashing water and humid weather.
+341|Small dark sunken spots on leaves and stalks
+342|Spots join and leaves collapse
+343|Remove infected plants.
+344|Ask local extension about treatment.
+345|Good drainage
+346|Early blight (celery, Cercospora)
+347|Fungus (Cercospora apii), warm humid weather.
+348|Small yellow-green spots that turn tan with a darker edge
+349|Older leaves affected first
+350|Keep foliage dry.
+351|Ask local extension about fungicides.
+352|Spacing
+353|Citrus canker
+354|Bacteria (Xanthomonas citri), spread by rain and wind; can be a regulated disease.
+355|Raised corky lesions with a yellow halo on leaves
+356|Spots on fruit and twigs
+357|Leaf and fruit drop
+358|Report to local agricultural authority: it is often notifiable.
+359|Remove and bag infected material; disinfect tools.
+360|Do not move plant material.
+361|Certified clean nursery stock
+362|Windbreaks
+363|Control leaf miners
+364|Citrus greening (HLB)
+365|Bacterium spread by psyllid insects. No cure. Often notifiable.
+366|Blotchy yellow mottling on leaves
+367|Small lopsided bitter fruit
+368|Twig dieback
+369|Report to local agricultural authority.
+370|Remove infected trees as advised locally.
+371|Control psyllids.
+372|Certified clean trees
+373|Psyllid control
+374|Scout regularly
+375|Healthy coffee leaf
+376|Shade management and mulching help.
+377|Coffee leaf rust
+378|Fungus (Hemileia vastatrix), spreads by wind and rain in warm humid weather.
+379|Yellow-orange powdery spots under leaves
+380|Matching pale spots on top
+381|Leaf drop and weak plants
+382|Prune to open the canopy.
+383|Remove heavily infected leaves where practical.
+384|Shade and pruning management
+385|Balanced nutrition
+386|Healthy cucumber leaf
+387|Trellis for airflow.
+388|Scout for mildew and beetles.
+389|Angular leaf spot (cucumber)
+390|Bacteria (Pseudomonas syringae pv. lachrymans), spread by splash and seed.
+391|Water-soaked angular spots limited by veins
+392|Spots dry, tear and fall out
+393|Spots on fruit
+394|Remove infected leaves; avoid handling wet plants.
+395|Ask local extension about copper options.
+396|Bacterial wilt (cucumber)
+397|Bacteria (Erwinia tracheiphila) spread by cucumber beetles. No cure.
+398|Sudden wilting of leaves and vines
+399|Sticky white ooze from cut stems
+400|Remove and destroy wilted plants.
+401|Control cucumber beetles.
+402|Do not compost.
+403|Beetle control early
+404|Row covers on young plants
+405|Powdery mildew (cucumber)
+406|Fungus, favoured by warm days and humid nights.
+407|White powdery patches on leaves
+408|Leaves yellow, brown and die
+409|Improve airflow.
+410|Morning watering at the base
+411|Healthy eggplant leaf
+412|Stake plants.
+413|Cercospora leaf spot (eggplant)
+414|Fungus (Cercospora), warm wet weather.
+415|Round spots with pale centres and dark margins
+416|Leaves yellow and drop
+417|Avoid wetting foliage.
+418|Clean residue
+419|Healthy garlic leaf
+420|Plant in well-drained soil.
+421|Rotate with non-allium crops (3-4 years).
+422|Leaf blight (garlic)
+423|Fungal leaf blights (e.g. Stemphylium, Botrytis), humid weather.
+424|Pale yellow to brown spots or streaks on leaf tips
+425|Leaves dry from the tip down
+426|Improve airflow and drainage.
+427|Clean seed cloves
+428|Rust (garlic)
+429|Fungus (Puccinia allii), cool humid weather.
+430|Small orange powdery pustules on leaves
+431|Leaves yellow and dry early
+432|Clean planting stock
+433|Avoid dense planting
+434|Healthy ginger leaf
+435|Provide partial shade and well-drained soil.
+436|Leaf spot (ginger)
+437|Fungal leaf spot (e.g. Phyllosticta), wet weather.
+438|Oval white to brown spots with a yellow halo
+439|Spots merge and leaves dry
+440|Improve drainage and airflow.
+441|Ask local extension about options.
+442|Healthy rhizomes
+443|Sheath blight (ginger)
+444|Fungus (Rhizoctonia), warm humid conditions.
+445|Water-soaked lesions on leaf sheaths
+446|Lesions spread up and rot stems
+447|Improve drainage.
+448|Clean planting material
+449|Avoid waterlogging
+450|Healthy lettuce leaf
+451|Water in the morning at the base.
+452|Space for airflow.
+453|Downy mildew (lettuce)
+454|Oomycete (Bremia lactucae), cool humid weather.
+455|Yellow angular patches on upper leaves
+456|White fuzz underneath
+457|Leaves turn brown
+458|Wide spacing
+459|Lettuce mosaic virus
+460|Virus carried in seed and spread by aphids. No cure.
+461|Mottled, crinkled leaves
+462|Stunted plants
+463|Poor heads
+464|Virus-indexed seed
+465|Aphid control
+466|Healthy maple leaf
+467|Water young trees in dry spells.
+468|Rake fallen leaves in autumn.
+469|Tar spot (maple)
+470|Fungus (Rhytisma), spreads by spores in wet spring weather.
+471|Raised black tar-like spots on leaves
+472|Rake and destroy fallen leaves.
+473|Usually cosmetic; healthy trees tolerate it.
+474|Leaf clean-up each autumn
+475|Healthy plum leaf
+476|Prune in dry weather for airflow.
+477|Remove fallen fruit and leaves.
+478|Plum pocket (pocket plum)
+479|Fungus (Taphrina communis) infecting flowers and young fruit in cool wet spring.
+480|Fruit become hollow, swollen and bladder-like
+481|Leaves may be puckered
+482|Remove and destroy affected fruit before they mature.
+483|Ask local extension about spring protectant sprays.
+484|Clean up fallen fruit
+485|Healthy rice leaf
+486|Manage water levels.
+487|Avoid excess nitrogen.
+488|Scout fields weekly.
+489|Rice blast
+490|Fungus (Magnaporthe oryzae), spreads in humid weather and with heavy nitrogen use.
+491|Diamond-shaped grey spots with brown margins on leaves
+492|Neck rot at the panicle in severe cases
+493|Drain and manage water properly.
+494|Balanced fertiliser
+495|Sheath blight (rice)
+496|Fungus (Rhizoctonia solani), dense crops and high humidity.
+497|Oval greenish-grey lesions on the sheath near the water line
+498|Lesions spread upward
+499|Reduce plant density and excess nitrogen.
+500|Drain fields as advised.
+501|Ask local extension about fungicide.
+502|Moderate nitrogen
+503|Residue management
+504|Healthy tobacco leaf
+505|Rotate crops.
+506|Scout for mosaic patterns.
+507|Tobacco mosaic virus
+508|Virus spread by contact (hands, tools). No cure.
+509|Mottled light and dark green leaves
+510|Distorted, narrow leaves
+511|Wash hands and disinfect tools.
+512|Zucchini yellow mosaic virus
+513|Virus spread by aphids. No cure.
+514|Yellow mosaic patches on leaves
+515|Bumpy deformed fruit
+516|Do not compost infected plants.
+517|Row covers
+518|Apple mosaic virus
+519|Virus spread by grafting and infected stock. No cure.
+520|Cream to yellow patches or bands on leaves
+521|Reduced vigour
+522|Report severe cases to local advisers.
+523|Do not graft from infected trees.
+524|Certified virus-free rootstock
+525|Cherry leaf spot
+526|Fungus (Blumeriella jaapii), wet spring weather.
+527|Small purple spots turning brown, with holes ('shot-hole')
+528|Yellow leaves that drop early
+529|Prune for airflow.
+530|Ask local extension about spray timing.
+531|Leaf clean-up
+532|Corn smut
+533|Fungus (Ustilago maydis), infects through wounds.
+534|Large grey-white swollen galls on ears, stalks or leaves
+535|Galls turn black and burst into spores
+536|Remove and destroy galls before they burst.
+537|Avoid crop injury.
+538|Avoid wounding plants
+539|Downy mildew (grape)
+540|Oomycete (Plasmopara viticola), warm wet weather.
+541|Yellow oily patches on upper leaf surface
+542|White downy growth underneath
+543|Shrivelled berries
+544|Remove infected leaves and shoots.
+545|Open the canopy.
+546|Ask local extension about spray programme.
+547|Canopy management
+548|Esca / black measles (grape)
+549|Wood-decay fungi in the vine.
+550|Yellow or red 'tiger stripe' pattern between veins
+551|Dark spots on berries
+552|Vine decline
+553|Mark and prune out affected wood in dry weather.
+554|Disinfect pruning tools.
+555|Ask local extension for options.
+556|Protect pruning wounds
+557|Grapevine leafroll disease
+558|Virus spread by mealybugs and infected planting material. No cure.
+559|Leaf edges roll downward
+560|Red or yellow colour between green veins in autumn
+561|Reduced yield
+562|Remove infected vines where advised.
+563|Control mealybugs.
+564|Use only clean planting material.
+565|Certified virus-free vines
+566|Mealybug control
+567|Bacterial spot (peach)
+568|Bacteria (Xanthomonas arboricola pv. pruni), spread by rain.
+569|Small dark angular spots on leaves
+570|Spots drop out leaving holes
+571|Pitted fruit
+572|Tolerant varieties
+573|Peach leaf curl
+574|Fungus (Taphrina deformans), infects buds in cool wet spring.
+575|Thickened, red-pink puckered curled leaves
+576|Leaves later turn grey and drop
+577|Remove and destroy affected leaves.
+578|Apply protection only in late winter before bud swell: ask local extension.
+579|Rain cover for small trees
+580|Dormant-season protection
+581|Healthy squash leaf
+582|Give room for airflow.
+583|Scout for mildew.
+584|Anthracnose (strawberry)
+585|Fungus (Colletotrichum), warm wet weather.
+586|Dark sunken lesions on runners and stalks
+587|Leaf spots
+588|Plant wilting and crown rot
+589|Spider mites (tomato)
+590|Tiny mites (Tetranychus urticae) feeding on leaves; worse in hot dry weather.
+591|Fine yellow stippling on leaves
+592|Fine webbing under leaves
+593|Leaves bronze and dry
+594|Spray leaves with water to knock mites off.
+595|Remove heavily infested leaves.
+596|Ask local extension about miticides or beneficial predators.
+597|Keep plants watered
+598|Avoid dusty conditions
+599|Target spot (tomato)
+600|Fungus (Corynespora cassiicola), warm humid weather.
+601|Brown spots with concentric rings on leaves
+602|Staking

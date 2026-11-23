@@ -1,0 +1,22 @@
+# Python 3.10. PyTorch with CUDA 12.1 is installed separately (see README):
+#   pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
+torchvision==0.20.1
+numpy==2.2.6
+pandas==2.3.3
+pillow==12.3.0
+pyarrow==25.0.1
+tqdm==4.70.1
+
+# Web app
+fastapi==0.162.5
+uvicorn==0.54.0
+python-multipart==0.0.32
+
+# Export to the phone (ONNX) and parity check
+onnx==1.23.2
+onnxruntime==1.23.2
+
+# Optional: only for scripts/dino_probe.py (feature-quality experiment)
+timm==1.0.31
+huggingface_hub==2.4.0

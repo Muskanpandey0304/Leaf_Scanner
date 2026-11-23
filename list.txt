@@ -1,0 +1,196 @@
+Plants and conditions Leaf Scanner can recognise
+Tier A = tested accurately on held-out photos; B = weak or unproven in tests (double-check); C = studio photos only (weakly tested)
+
+Apple
+  - Apple black rot / frogeye leaf spot [B]
+  - Apple mosaic virus [B]
+  - Apple scab [B]
+  - Cedar apple rust [A]
+  - Healthy apple leaf [B]
+
+Banana
+  - Anthracnose (banana) [B]
+  - Bract mosaic virus (banana) [B]
+  - Bunchy top virus (banana) [B]
+  - Cordana leaf spot (banana) [A]
+  - Healthy banana leaf [A]
+  - Moko disease (banana) [B]
+  - Panama disease (Fusarium wilt, banana) [A]
+  - Pestalotiopsis leaf spot (banana) [A]
+  - Sigatoka leaf spot (banana) [A]
+
+Basil
+  - Downy mildew (basil) [B]
+  - Healthy basil leaf [A]
+
+Bean
+  - Bean mosaic virus [B]
+  - Halo blight (bean) [B]
+  - Healthy bean leaf [B]
+  - Rust (bean) [B]
+
+Bell pepper
+  - Bacterial spot (pepper) [B]
+  - Healthy pepper leaf [A]
+
+Blueberry
+  - Blueberry scorch virus [B]
+  - Healthy blueberry leaf [B]
+  - Rust (blueberry) [B]
+
+Broccoli
+  - Alternaria leaf spot (broccoli) [B]
+  - Downy mildew (broccoli) [B]
+  - Healthy broccoli leaf [B]
+
+Cabbage
+  - Alternaria leaf spot (cabbage) [B]
+  - Black rot (cabbage) [B]
+  - Downy mildew (cabbage) [B]
+  - Healthy cabbage leaf [A]
+
+Carrot
+  - Alternaria leaf blight (carrot) [B]
+  - Cavity spot (carrot) [A]
+
+Cauliflower
+  - Alternaria leaf spot (cauliflower) [B]
+  - Healthy cauliflower leaf [B]
+
+Celery
+  - Anthracnose (celery) [B]
+  - Early blight (celery, Cercospora) [B]
+  - Healthy celery leaf [A]
+
+Cherry
+  - Cherry leaf spot [B]
+  - Healthy cherry leaf [B]
+  - Powdery mildew (cherry) [B]
+
+Citrus
+  - Citrus canker [A]
+  - Citrus greening (HLB) [A]
+
+Coffee
+  - Brown eye spot (coffee) [A]
+  - Coffee leaf rust [A]
+  - Healthy coffee leaf [A]
+  - Leaf miner damage (coffee) [B]
+  - Phoma leaf spot (coffee) [A]
+
+Corn / maize
+  - Common rust (corn) [B]
+  - Corn smut [A]
+  - Gray leaf spot (corn) [B]
+  - Healthy corn leaf [A]
+  - Northern leaf blight (corn) [B]
+
+Cucumber
+  - Angular leaf spot (cucumber) [B]
+  - Bacterial wilt (cucumber) [B]
+  - Healthy cucumber leaf [B]
+  - Powdery mildew (cucumber) [B]
+
+Eggplant
+  - Cercospora leaf spot (eggplant) [B]
+  - Healthy eggplant leaf [B]
+
+Garlic
+  - Healthy garlic leaf [B]
+  - Leaf blight (garlic) [B]
+  - Rust (garlic) [B]
+
+Ginger
+  - Healthy ginger leaf [B]
+  - Leaf spot (ginger) [B]
+  - Sheath blight (ginger) [B]
+
+Grape
+  - Black rot (grape) [A]
+  - Downy mildew (grape) [A]
+  - Esca / black measles (grape) [C]
+  - Grape leaf blight / leaf spot [B]
+  - Grapevine leafroll disease [B]
+  - Healthy grape leaf [A]
+
+Lettuce
+  - Downy mildew (lettuce) [B]
+  - Healthy lettuce leaf [A]
+  - Lettuce mosaic virus [B]
+
+Maple
+  - Healthy maple leaf [A]
+  - Tar spot (maple) [A]
+
+Peach
+  - Bacterial spot (peach) [C]
+  - Healthy peach leaf [B]
+  - Peach leaf curl [A]
+
+Plum
+  - Healthy plum leaf [B]
+  - Plum pocket (pocket plum) [B]
+
+Potato
+  - Early blight (potato) [B]
+  - Healthy potato leaf [B]
+  - Late blight (potato) [A]
+
+Raspberry
+  - Healthy raspberry leaf [A]
+
+Rice
+  - Healthy rice leaf [B]
+  - Rice blast [B]
+  - Sheath blight (rice) [A]
+
+Soybean
+  - Bacterial blight (soybean) [B]
+  - Brown spot (soybean) [B]
+  - Downy mildew (soybean) [B]
+  - Frogeye leaf spot (soybean) [B]
+  - Healthy soybean leaf [B]
+  - Mosaic virus (soybean) [B]
+  - Rust (soybean) [B]
+
+Squash
+  - Healthy squash leaf [B]
+  - Powdery mildew (squash) [B]
+
+Strawberry
+  - Anthracnose (strawberry) [B]
+  - Healthy strawberry leaf [A]
+  - Leaf scorch (strawberry) [A]
+
+Tobacco
+  - Blue mold (tobacco) [B]
+  - Brown spot (tobacco) [B]
+  - Healthy tobacco leaf [B]
+  - Tobacco mosaic virus [B]
+
+Tomato
+  - Bacterial spot (tomato) [B]
+  - Early blight (tomato) [B]
+  - Healthy tomato leaf [B]
+  - Late blight (tomato) [B]
+  - Leaf mold (tomato) [A]
+  - Mosaic virus (tomato) [B]
+  - Septoria leaf spot (tomato) [B]
+  - Spider mites (tomato) [A]
+  - Target spot (tomato) [C]
+  - Yellow leaf curl virus (tomato) [B]
+
+Wheat
+  - Bacterial leaf streak / black chaff (wheat) [B]
+  - Healthy wheat leaf [A]
+  - Leaf rust (wheat) [B]
+  - Powdery mildew (wheat) [A]
+  - Septoria leaf blotch (wheat) [B]
+  - Stem rust (wheat) [B]
+  - Stripe rust (wheat) [A]
+
+Zucchini
+  - Bacterial wilt (zucchini) [B]
+  - Downy mildew (zucchini) [B]
+  - Powdery mildew (zucchini) [B]
+  - Zucchini yellow mosaic virus [B]

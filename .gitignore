@@ -1,0 +1,41 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (large, downloaded separately; see DATASETS.md)
+data/
+features_*.npz
+
+# Old model runs and logs (the final model is models_run4)
+models/
+models_run1/
+models_run2/
+models_run3/
+*.log
+*.err
+
+# Scans and feedback collected while testing
+app/uploads/
+
+# Built app: attach LeafScanner.apk to a GitHub Release instead of committing it
+LeafScanner.apk
+*.apk
+
+# Flutter / Android build output
+mobile_app/build/
+mobile_app/.dart_tool/
+mobile_app/android/.gradle/
+mobile_app/android/local.properties
+mobile_app/android/app/debug/
+mobile_app/android/app/profile/
+mobile_app/android/app/release/
+mobile_app/*.iml
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+demo_photos/
+DEMO.md

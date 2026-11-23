@@ -1,0 +1,806 @@
+{
+ "banana__anthracnose": {
+  "title": "Anthracnose (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Colletotrichum musae), spreads by rain splash in warm humid weather.",
+  "signs": [
+   "Dark brown to black sunken spots on leaves or fruit",
+   "Spots may have a yellow edge",
+   "Affected areas dry and crack"
+  ],
+  "actions": [
+   "Remove and destroy infected leaves and fruit.",
+   "Handle fruit gently to avoid wounds.",
+   "Ask local extension about approved fungicides if severe."
+  ],
+  "prevention": [
+   "Keep the plantation clean of dead leaves",
+   "Avoid overcrowding",
+   "Handle and store fruit carefully"
+  ],
+  "lookalikes": [
+   "banana__sigatoka",
+   "banana__cordana_leaf_spot"
+  ]
+ },
+ "banana__bunchy_top": {
+  "title": "Bunchy top virus (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Virus spread by banana aphids and by infected planting material. No cure.",
+  "signs": [
+   "Dark green streaks on leaf veins and stalks",
+   "New leaves are short, narrow and bunched at the top",
+   "Plant is stunted and gives little or no fruit"
+  ],
+  "actions": [
+   "Remove and destroy infected plants including the roots.",
+   "Control aphids.",
+   "Report to the local agriculture office: it is often notifiable."
+  ],
+  "prevention": [
+   "Use certified virus-free planting material",
+   "Do not move suckers from infected areas",
+   "Control aphids"
+  ],
+  "lookalikes": [
+   "banana__bract_mosaic_virus"
+  ]
+ },
+ "banana__cordana_leaf_spot": {
+  "title": "Cordana leaf spot (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Cordana musae), favoured by wet weather and humid plantations.",
+  "signs": [
+   "Large oval spots with a pale centre and a yellow edge",
+   "Spots often start at the leaf margin",
+   "Spots may merge and dry out large areas"
+  ],
+  "actions": [
+   "Remove badly affected leaves.",
+   "Improve air flow by thinning and weeding.",
+   "Ask local extension if it keeps spreading."
+  ],
+  "prevention": [
+   "Good drainage",
+   "Avoid dense planting",
+   "Remove dead leaves regularly"
+  ],
+  "lookalikes": [
+   "banana__sigatoka",
+   "banana__pestalotiopsis_leaf_spot"
+  ]
+ },
+ "banana__sigatoka": {
+  "title": "Sigatoka leaf spot (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Mycosphaerella species, black and yellow Sigatoka), spreads by wind and rain in warm humid weather.",
+  "signs": [
+   "Small yellow or brown streaks on the leaf that grow into dark spots with a yellow halo",
+   "Spots join and large parts of the leaf turn brown and die",
+   "Leaves collapse early and the plant weakens"
+  ],
+  "actions": [
+   "Cut off and destroy badly affected leaves.",
+   "Improve drainage and plant spacing for air flow.",
+   "Ask local extension which fungicide programme is approved in your area."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Regular removal of dead leaves",
+   "Good drainage and weed control"
+  ],
+  "lookalikes": [
+   "banana__cordana_leaf_spot",
+   "banana__pestalotiopsis_leaf_spot"
+  ]
+ },
+ "banana__bract_mosaic_virus": {
+  "title": "Bract mosaic virus (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected planting material. No cure.",
+  "signs": [
+   "Reddish-brown streaks on leaves, stems and the flower bract",
+   "Streaks run across the leaf vein",
+   "Poor, small bunches"
+  ],
+  "actions": [
+   "Remove and destroy infected plants.",
+   "Control aphids.",
+   "Do not use suckers from infected plants."
+  ],
+  "prevention": [
+   "Use virus-free planting material",
+   "Control aphids and weeds",
+   "Inspect plants regularly"
+  ],
+  "lookalikes": [
+   "banana__bunchy_top"
+  ]
+ },
+ "banana__moko_disease": {
+  "title": "Moko disease (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Soil and insect-spread bacterium (Ralstonia solanacearum). No cure. Often notifiable.",
+  "signs": [
+   "Young leaves turn yellow and then collapse",
+   "Brown to black discolouration inside the stem when cut",
+   "Fruit ripens unevenly and rots inside"
+  ],
+  "actions": [
+   "Report to the local agriculture authority.",
+   "Remove and destroy infected plants; do not move soil or plant parts.",
+   "Disinfect tools and boots between plots."
+  ],
+  "prevention": [
+   "Clean planting material",
+   "Disinfect cutting tools",
+   "Control insects that visit the flowers"
+  ],
+  "lookalikes": [
+   "banana__panama_disease"
+  ]
+ },
+ "banana__pestalotiopsis_leaf_spot": {
+  "title": "Pestalotiopsis leaf spot (banana)",
+  "crop": "Banana",
+  "kind": "disease",
+  "cause": "Fungus (Pestalotiopsis), often enters through wounds in wet weather.",
+  "signs": [
+   "Dark brown spots with grey centres and a yellow edge",
+   "Spots join into larger dead patches",
+   "Leaf edges dry and tear"
+  ],
+  "actions": [
+   "Remove infected leaves.",
+   "Avoid wounding leaves during work.",
+   "Ask local extension if the spots keep spreading."
+  ],
+  "prevention": [
+   "Keep the plantation clean",
+   "Good drainage",
+   "Avoid damaged leaves"
+  ],
+  "lookalikes": [
+   "banana__cordana_leaf_spot",
+   "banana__sigatoka"
+  ]
+ },
+ "blueberry__scorch": {
+  "title": "Blueberry scorch virus",
+  "crop": "Blueberry",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected plants. No cure.",
+  "signs": [
+   "Flowers and young leaves turn brown suddenly as if scorched",
+   "Blossoms wilt and drop",
+   "Shoots die back from the tip"
+  ],
+  "actions": [
+   "Remove and destroy infected bushes.",
+   "Control aphids.",
+   "Contact local extension: this virus is often regulated."
+  ],
+  "prevention": [
+   "Certified virus-free plants",
+   "Aphid control",
+   "Do not move plants from infected fields"
+  ],
+  "lookalikes": []
+ },
+ "broccoli__alternaria_leaf_spot": {
+  "title": "Alternaria leaf spot (broccoli)",
+  "crop": "Broccoli",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria), spreads by seed, wind and splashing water in warm humid weather.",
+  "signs": [
+   "Round brown spots with rings like a target",
+   "Yellow halo around the spots",
+   "Spots can reach the head"
+  ],
+  "actions": [
+   "Remove badly infected leaves.",
+   "Keep leaves dry; water at the base.",
+   "Ask local extension about approved fungicides if it spreads."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotate crops for 2-3 years",
+   "Remove crop residue"
+  ],
+  "lookalikes": [
+   "cabbage__alternaria_leaf_spot",
+   "broccoli__downy_mildew"
+  ]
+ },
+ "cabbage__black_rot": {
+  "title": "Black rot (cabbage)",
+  "crop": "Cabbage",
+  "kind": "disease",
+  "cause": "Bacterium (Xanthomonas campestris), seed-borne, spreads by rain splash and in warm humid weather.",
+  "signs": [
+   "Yellow V-shaped patches starting at the leaf edge",
+   "Veins turn black inside the patch",
+   "Leaves wither and the head may rot"
+  ],
+  "actions": [
+   "Remove and destroy infected plants.",
+   "Avoid working in the crop when wet.",
+   "Ask local extension about options; there is no cure once it starts."
+  ],
+  "prevention": [
+   "Disease-free or treated seed",
+   "Rotate with non-cabbage crops for 2-3 years",
+   "Control weeds in the cabbage family"
+  ],
+  "lookalikes": [
+   "cabbage__alternaria_leaf_spot",
+   "cabbage__downy_mildew"
+  ]
+ },
+ "cabbage__downy_mildew": {
+  "title": "Downy mildew (cabbage)",
+  "crop": "Cabbage",
+  "kind": "disease",
+  "cause": "Oomycete (Hyaloperonospora), cool damp weather.",
+  "signs": [
+   "Yellow to brown angular patches on upper leaf surface",
+   "White-grey fuzz underneath in humid weather",
+   "Dark spots on the head"
+  ],
+  "actions": [
+   "Improve air flow and avoid wetting leaves.",
+   "Remove badly infected leaves.",
+   "Ask local extension about treatments if severe."
+  ],
+  "prevention": [
+   "Wider spacing",
+   "Resistant varieties",
+   "Water in the morning at the base"
+  ],
+  "lookalikes": [
+   "cabbage__black_rot",
+   "broccoli__downy_mildew"
+  ]
+ },
+ "carrot__alternaria_leaf_blight": {
+  "title": "Alternaria leaf blight (carrot)",
+  "crop": "Carrot",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria dauci), spreads in warm humid weather and on seed.",
+  "signs": [
+   "Dark brown to black spots with a yellow halo on leaf edges",
+   "Leaves curl, yellow and die",
+   "Tops collapse and roots can be small"
+  ],
+  "actions": [
+   "Remove badly infected leaves.",
+   "Avoid overhead watering.",
+   "Ask local extension about approved fungicides if severe."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotate crops for 2-3 years",
+   "Remove crop residue after harvest"
+  ],
+  "lookalikes": [
+   "carrot__cavity_spot"
+  ]
+ },
+ "coffee__brown_eye_spot": {
+  "title": "Brown eye spot (coffee)",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora coffeicola), worse in plants stressed by sun, drought or poor feeding.",
+  "signs": [
+   "Round brown spots with a pale centre and a yellow ring",
+   "Spots on leaves and berries",
+   "Leaves drop early"
+  ],
+  "actions": [
+   "Improve feeding and shade; stressed plants get it more.",
+   "Remove heavily spotted leaves where practical.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Balanced fertiliser",
+   "Shade and pruning management",
+   "Good watering"
+  ],
+  "lookalikes": [
+   "coffee__leaf_rust",
+   "coffee__phoma_leaf_spot"
+  ]
+ },
+ "coffee__leaf_miner": {
+  "title": "Leaf miner damage (coffee)",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Tiny insect larvae (Leucoptera coffeella) that tunnel inside the leaf. It is a pest, not a fungus.",
+  "signs": [
+   "Irregular pale or brown blotches on the upper leaf",
+   "Blotches look like blisters and later tear",
+   "Leaves drop early"
+  ],
+  "actions": [
+   "Ask local extension about leaf miner control.",
+   "Protect natural enemies such as wasps.",
+   "Avoid dusty, hot, dry conditions."
+  ],
+  "prevention": [
+   "Shade management",
+   "Regular checks in the dry season",
+   "Keep trees healthy"
+  ],
+  "lookalikes": [
+   "coffee__brown_eye_spot",
+   "coffee__phoma_leaf_spot"
+  ]
+ },
+ "coffee__phoma_leaf_spot": {
+  "title": "Phoma leaf spot (coffee)",
+  "crop": "Coffee",
+  "kind": "disease",
+  "cause": "Fungus (Phoma), favoured by cool wet weather and strong wind.",
+  "signs": [
+   "Dark brown to black spots on young leaves and shoot tips",
+   "Spots may merge and kill the tip",
+   "Leaves curl and drop"
+  ],
+  "actions": [
+   "Remove and destroy affected tips and leaves.",
+   "Provide windbreaks and shade.",
+   "Ask local extension about approved options."
+  ],
+  "prevention": [
+   "Windbreaks",
+   "Shade",
+   "Balanced nutrition"
+  ],
+  "lookalikes": [
+   "coffee__brown_eye_spot",
+   "coffee__leaf_miner"
+  ]
+ },
+ "soybean__bacterial_blight": {
+  "title": "Bacterial blight (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Bacterium (Pseudomonas savastanoi pv. glycinea), spreads by rain splash and wind in cool wet weather.",
+  "signs": [
+   "Small angular water-soaked spots that turn brown",
+   "Yellow halo around the spots",
+   "Spots join and the middle may fall out"
+  ],
+  "actions": [
+   "Avoid working in wet fields.",
+   "Rotate with non-soybean crops.",
+   "Ask local extension about options."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Crop rotation",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "soybean__brown_spot",
+   "soybean__frogeye_leaf_spot"
+  ]
+ },
+ "soybean__brown_spot": {
+  "title": "Brown spot (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Fungus (Septoria glycines), survives on residue; warm wet weather.",
+  "signs": [
+   "Small dark brown irregular spots on lower leaves first",
+   "Leaves yellow and drop early",
+   "Spots may join"
+  ],
+  "actions": [
+   "Rotate with non-soybean crops.",
+   "Manage crop residue.",
+   "Ask local extension about fungicide if it climbs the plant."
+  ],
+  "prevention": [
+   "Rotation",
+   "Residue management",
+   "Healthy seed"
+  ],
+  "lookalikes": [
+   "soybean__bacterial_blight",
+   "soybean__frogeye_leaf_spot"
+  ]
+ },
+ "soybean__downy_mildew": {
+  "title": "Downy mildew (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Oomycete (Peronospora manshurica), cool humid weather; survives on seed and residue.",
+  "signs": [
+   "Pale green to yellow patches on upper leaf surface",
+   "Grey fuzz underneath in humid weather",
+   "Patches turn brown and dry"
+  ],
+  "actions": [
+   "Rotate crops.",
+   "Remove infected residue.",
+   "Ask local extension about options if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Clean seed",
+   "Rotation"
+  ],
+  "lookalikes": [
+   "soybean__rust",
+   "soybean__brown_spot"
+  ]
+ },
+ "soybean__frogeye_leaf_spot": {
+  "title": "Frogeye leaf spot (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Fungus (Cercospora sojina), warm humid weather; survives on seed and residue.",
+  "signs": [
+   "Round to angular spots with a grey centre and a reddish-brown border",
+   "Spots on the upper leaf surface",
+   "Spots may join and kill leaf parts"
+  ],
+  "actions": [
+   "Rotate with non-soybean crops.",
+   "Remove or bury crop residue.",
+   "Ask local extension about fungicide if it spreads."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Clean seed",
+   "Crop rotation"
+  ],
+  "lookalikes": [
+   "soybean__brown_spot",
+   "soybean__bacterial_blight"
+  ]
+ },
+ "soybean__rust": {
+  "title": "Rust (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Fungus (Phakopsora pachyrhizi), spreads quickly by wind in warm humid weather. Serious disease.",
+  "signs": [
+   "Tiny tan to reddish-brown spots, mostly on the underside",
+   "Small raised pustules in the spots",
+   "Leaves yellow and drop early"
+  ],
+  "actions": [
+   "Act quickly: check nearby fields.",
+   "Contact local extension urgently about fungicide timing.",
+   "Remove volunteer soybean and alternate host plants."
+  ],
+  "prevention": [
+   "Early planting",
+   "Resistant varieties",
+   "Regular scouting"
+  ],
+  "lookalikes": [
+   "soybean__brown_spot",
+   "soybean__downy_mildew"
+  ]
+ },
+ "tobacco__blue_mold": {
+  "title": "Blue mold (tobacco)",
+  "crop": "Tobacco",
+  "kind": "disease",
+  "cause": "Oomycete (Peronospora tabacina), spreads by wind in cool damp weather. Spreads very fast.",
+  "signs": [
+   "Yellow patches on upper leaf surface",
+   "Grey-blue fuzz underneath",
+   "Leaves curl and die"
+  ],
+  "actions": [
+   "Act quickly; remove infected seedlings or plants.",
+   "Improve air flow and reduce leaf wetness.",
+   "Contact local extension urgently."
+  ],
+  "prevention": [
+   "Healthy seedlings",
+   "Good spacing and ventilation",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "tobacco__brown_spot"
+  ]
+ },
+ "tobacco__brown_spot": {
+  "title": "Brown spot (tobacco)",
+  "crop": "Tobacco",
+  "kind": "disease",
+  "cause": "Fungus (Alternaria alternata), favoured by warm humid weather and older plants.",
+  "signs": [
+   "Round brown spots with rings, starting on lower leaves",
+   "Spots may have a yellow edge",
+   "Leaves tear and dry out"
+  ],
+  "actions": [
+   "Remove lower infected leaves.",
+   "Avoid overhead watering.",
+   "Ask local extension about options if severe."
+  ],
+  "prevention": [
+   "Balanced fertiliser",
+   "Crop rotation",
+   "Harvest on time"
+  ],
+  "lookalikes": [
+   "tobacco__blue_mold"
+  ]
+ },
+ "wheat__healthy": {
+  "title": "Healthy wheat leaf",
+  "crop": "Wheat",
+  "kind": "healthy",
+  "summary": "No disease pattern recognised.",
+  "actions": [
+   "Scout weekly for rust pustules or spots.",
+   "Keep nitrogen balanced.",
+   "Rotate with non-cereal crops."
+  ],
+  "prevention": [],
+  "lookalikes": []
+ },
+ "wheat__bacterial_leaf_streak": {
+  "title": "Bacterial leaf streak / black chaff (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Bacterium (Xanthomonas translucens), seed-borne, spreads by rain and wind.",
+  "signs": [
+   "Narrow water-soaked streaks along the leaf",
+   "Streaks turn brown or yellow with a shiny surface",
+   "Dark streaks on the ear (black chaff)"
+  ],
+  "actions": [
+   "Rotate with non-cereal crops.",
+   "Remove crop residue.",
+   "Ask local extension about options; there is no cure."
+  ],
+  "prevention": [
+   "Clean seed",
+   "Rotation",
+   "Resistant varieties"
+  ],
+  "lookalikes": [
+   "wheat__septoria_blotch"
+  ]
+ },
+ "wheat__leaf_rust": {
+  "title": "Leaf rust (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia triticina), spreads by wind in mild humid weather.",
+  "signs": [
+   "Small round orange-brown pustules scattered on the leaf",
+   "Pustules mostly on the upper side",
+   "Leaves yellow and die early"
+  ],
+  "actions": [
+   "Check nearby fields and scout weekly.",
+   "Ask local extension about fungicide timing.",
+   "Remove volunteer wheat."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Timely planting",
+   "Regular scouting"
+  ],
+  "lookalikes": [
+   "wheat__stripe_rust",
+   "wheat__stem_rust"
+  ]
+ },
+ "wheat__powdery_mildew": {
+  "title": "Powdery mildew (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Blumeria graminis), favoured by cool humid weather and dense crops.",
+  "signs": [
+   "White powdery patches on leaves and stems",
+   "Patches turn grey-brown with small black dots",
+   "Leaves yellow and dry"
+  ],
+  "actions": [
+   "Avoid very dense sowing and excess nitrogen.",
+   "Ask local extension about fungicide if severe.",
+   "Remove volunteer wheat."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Balanced nitrogen",
+   "Good spacing"
+  ],
+  "lookalikes": []
+ },
+ "wheat__septoria_blotch": {
+  "title": "Septoria leaf blotch (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Zymoseptoria tritici), spreads by rain splash in cool wet weather; survives on residue.",
+  "signs": [
+   "Pale yellow to brown blotches, often rectangular",
+   "Tiny black dots inside the blotches",
+   "Lower leaves first, then upwards"
+  ],
+  "actions": [
+   "Rotate crops and manage residue.",
+   "Ask local extension about fungicide timing.",
+   "Avoid very early sowing."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Rotation",
+   "Residue management"
+  ],
+  "lookalikes": [
+   "wheat__bacterial_leaf_streak"
+  ]
+ },
+ "wheat__stem_rust": {
+  "title": "Stem rust (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia graminis), spreads fast by wind in warm humid weather. Serious disease.",
+  "signs": [
+   "Dark red-brown raised pustules on stems and leaves",
+   "Pustules rough and powdery, often on both sides",
+   "Stems weaken and plants lodge"
+  ],
+  "actions": [
+   "Act quickly: check neighbouring fields.",
+   "Contact local extension urgently about fungicide.",
+   "Remove volunteer wheat and barberry nearby."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Early planting",
+   "Regular scouting"
+  ],
+  "lookalikes": [
+   "wheat__leaf_rust",
+   "wheat__stripe_rust"
+  ]
+ },
+ "wheat__stripe_rust": {
+  "title": "Stripe rust (wheat)",
+  "crop": "Wheat",
+  "kind": "disease",
+  "cause": "Fungus (Puccinia striiformis), spreads by wind in cool moist weather. Serious disease.",
+  "signs": [
+   "Yellow to orange powdery stripes running along the leaf veins",
+   "Stripes on leaves and sometimes on the ear",
+   "Leaves turn yellow and dry"
+  ],
+  "actions": [
+   "Act quickly: scout nearby fields.",
+   "Ask local extension urgently about fungicide timing.",
+   "Remove volunteer wheat."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Early monitoring in cool wet weather",
+   "Timely planting"
+  ],
+  "lookalikes": [
+   "wheat__leaf_rust",
+   "wheat__stem_rust"
+  ]
+ },
+ "zucchini__bacterial_wilt": {
+  "title": "Bacterial wilt (zucchini)",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Bacterium (Erwinia tracheiphila) spread by cucumber beetles. No cure.",
+  "signs": [
+   "Leaves and vines suddenly wilt",
+   "Sticky white ooze from cut stems",
+   "Plant collapses in days"
+  ],
+  "actions": [
+   "Remove and destroy wilted plants.",
+   "Control cucumber beetles.",
+   "Do not compost infected plants."
+  ],
+  "prevention": [
+   "Beetle control early",
+   "Row covers on young plants",
+   "Resistant varieties where available"
+  ],
+  "lookalikes": []
+ },
+ "zucchini__downy_mildew": {
+  "title": "Downy mildew (zucchini)",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Oomycete (Pseudoperonospora cubensis), warm humid weather.",
+  "signs": [
+   "Yellow angular patches on the upper leaf surface",
+   "Grey-purple fuzz underneath in humid weather",
+   "Patches turn brown and leaves die"
+  ],
+  "actions": [
+   "Improve air flow and avoid wetting leaves.",
+   "Remove badly infected leaves.",
+   "Ask local extension about options if severe."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Wider spacing",
+   "Morning watering at the base"
+  ],
+  "lookalikes": [
+   "zucchini__powdery_mildew"
+  ]
+ },
+ "zucchini__powdery_mildew": {
+  "title": "Powdery mildew (zucchini)",
+  "crop": "Zucchini",
+  "kind": "disease",
+  "cause": "Fungus (Podosphaera xanthii), warm days and humid nights.",
+  "signs": [
+   "White powdery patches on leaves and stems",
+   "Leaves yellow, then brown and die",
+   "Plants weaken and fruit is smaller"
+  ],
+  "actions": [
+   "Remove badly affected leaves.",
+   "Improve spacing and air flow.",
+   "Ask local extension about approved treatments."
+  ],
+  "prevention": [
+   "Resistant varieties",
+   "Avoid overcrowding",
+   "Water at the base in the morning"
+  ],
+  "lookalikes": [
+   "zucchini__downy_mildew"
+  ]
+ },
+ "diseased_unnamed": {
+  "title": "Looks diseased, disease not identified",
+  "kind": "unnamed_disease",
+  "summary": "The leaf shows signs of disease, but it does not match any disease this app can name.",
+  "actions": [
+   "Do not treat on this result alone.",
+   "Show the leaf, or a clear photo, to a local agriculture officer.",
+   "Take another photo in daylight, one leaf filling the frame, to check again."
+  ],
+  "prevention": [],
+  "lookalikes": []
+ },
+ "soybean__mosaic_virus": {
+  "title": "Mosaic virus (soybean)",
+  "crop": "Soybean",
+  "kind": "disease",
+  "cause": "Virus spread by aphids and infected seed. No cure.",
+  "signs": [
+   "Light and dark green mottling",
+   "Puckered, curled leaves",
+   "Stunted plants and poor pods"
+  ],
+  "actions": [
+   "Remove and bag infected plants.",
+   "Control aphids.",
+   "Do not save seed from infected plants."
+  ],
+  "prevention": [
+   "Certified virus-free seed",
+   "Control aphids and weeds"
+  ],
+  "lookalikes": [
+   "soybean__downy_mildew"
+  ]
+ }
+}

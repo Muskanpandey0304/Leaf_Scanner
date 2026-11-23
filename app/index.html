@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Leaf Scanner</title>
+<style>
+:root{--bg:#f3f7f1;--card:#fff;--ink:#1b2a1e;--mut:#5f6f63;--line:#e0e8dd;--green:#2e7d32;--orange:#e65100;--amber:#ef8f00;--grey:#607d8b}
+@media(prefers-color-scheme:dark){:root{--bg:#101712;--card:#192219;--ink:#e8f0e9;--mut:#9db1a2;--line:#2a392d}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,sans-serif}
+main{max-width:560px;margin:0 auto;padding:14px 16px 40px}
+.hero{background:linear-gradient(135deg,#c8e6c9,#dcedc8);color:#1b3a1f;border-radius:26px;padding:26px 18px;text-align:center;margin-bottom:16px}
+@media(prefers-color-scheme:dark){.hero{background:linear-gradient(135deg,#1f3a24,#2a4a2c);color:#e8f5e9}}
+.hero .ic{width:68px;height:68px;border-radius:50%;background:rgba(255,255,255,.6);margin:0 auto 10px;display:flex;align-items:center;justify-content:center;font-size:34px}
+.hero h1{margin:0;font-size:1.6rem;font-weight:800}.hero p{margin:6px 0 0}
+label.btn,button{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:16px;border-radius:18px;border:0;background:var(--green);color:#fff;font-size:1.05rem;font-weight:700;cursor:pointer}
+label.alt,button.alt{background:transparent;color:var(--ink);border:1.5px solid var(--line);font-weight:600;margin-top:10px}
+input[type=file]{display:none}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;margin-top:12px}
+.card h3{margin:0 0 8px;font-size:1rem;display:flex;align-items:center;gap:8px}
+.tips p{margin:6px 0;color:var(--mut)}
+img.pic{width:100%;max-height:270px;object-fit:cover;border-radius:22px;display:block}
+.banner{border-radius:22px;padding:18px;margin-top:12px;border:1px solid}
+.banner .h{font-size:1.25rem;font-weight:800;line-height:1.2;display:flex;gap:10px}
+.banner .h span.i{font-size:1.6rem}
+.banner .s{margin-top:8px}
+.bar{height:9px;border-radius:6px;overflow:hidden;margin-top:6px}.bar>i{display:block;height:100%}
+ul{padding-left:0;margin:0;list-style:none}li{padding:3px 0 3px 18px;position:relative}li:before{content:"";position:absolute;left:2px;top:.85em;width:6px;height:6px;border-radius:50%;background:var(--green)}
+.note{color:var(--amber);margin-top:10px;font-size:.95rem}.mut{color:var(--mut);font-size:.85rem}
+.row{display:flex;gap:10px}.row button{padding:12px}
+select{width:100%;padding:12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);margin-top:10px}
+.top{display:flex;justify-content:flex-end}.top select{width:auto;margin:0 0 10px}
+</style></head><body><main>
+<div class="top"><select id="lang"><option value="en">English</option><option value="hi">हिन्दी</option><option value="mr">मराठी</option></select></div>
+<div class="hero"><div class="ic">🌿</div><h1>Leaf Scanner</h1><p id="tagline"></p></div>
+<label class="btn" for="cam" id="b_cam"></label><input id="cam" type="file" accept="image/*" capture="environment">
+<label class="btn alt" for="gal" id="b_gal"></label><input id="gal" type="file" accept="image/*">
+<select id="crop"></select>
+<div class="card tips" id="tips"></div>
+<div id="out"></div>
+<p class="mut" id="mt"></p>
+</main>
+<script>
+let UI={},lang=(()=>{try{return localStorage.getItem('lang')||'en'}catch(e){return 'en'}})();
+const $=id=>document.getElementById(id);
+const out=$('out'),tips=$('tips');let last=null,lastFile=null;
+const T=(k,a)=>{let s=(UI[k]&&(UI[k][lang]||UI[k].en))||k;for(const x in (a||{}))s=s.split('{'+x+'}').join(a[x]);return s};
+const pct=p=>Math.round(p*100)+'%';
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const list=a=>a&&a.length?'<ul>'+a.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>':'';
+const card=(i,t,body)=>'<div class="card"><h3>'+i+' '+t+'</h3>'+body+'</div>';
+async function loadCrops(){
+  const sel=$('crop'),cur=sel.value;
+  const a=await (await fetch('/crops?lang='+lang)).json();
+  sel.innerHTML='<option value="">🌱 '+esc(T('web_plant_auto'))+'</option>'+a.map(c=>'<option value="'+esc(c.id)+'">'+esc(T('plant_n',{p:c.name}))+'</option>').join('');
+  sel.value=cur;
+}
+function paint(){
+  document.documentElement.lang=lang;$('lang').value=lang;
+  $('tagline').textContent=T('tagline');
+  $('b_cam').innerHTML='📷&nbsp; '+esc(T('take_photo'));
+  $('b_gal').innerHTML='🖼️&nbsp; '+esc(T('gallery'));
+  tips.innerHTML='<h3>'+esc(T('tips_title'))+'</h3><p>• '+esc(T('tip1'))+'</p><p>• '+esc(T('tip2'))+'</p><p>• '+esc(T('tip3'))+'</p>';
+  $('mt').textContent=lang==='en'?'':T('mt_note');
+}
+$('lang').addEventListener('change',async e=>{lang=e.target.value;try{localStorage.setItem('lang',lang)}catch(x){}paint();await loadCrops();if(lastFile)scan(lastFile,true)});
+for(const id of ['cam','gal'])$(id).addEventListener('change',e=>{if(e.target.files[0])scan(e.target.files[0]);e.target.value=''});
+async function scan(file,relog){
+  lastFile=file;tips.style.display='none';out.innerHTML='<div class="card">'+esc(T('analysing'))+'</div>';
+  const fd=new FormData();fd.append('file',file);fd.append('crop',$('crop').value);fd.append('lang',lang);if(relog)fd.append('log','0');
+  let r;try{r=await (await fetch('/predict',{method:'POST',body:fd})).json()}catch(e){out.innerHTML='<div class="card">'+esc(T('no_server'))+'</div>';tips.style.display='block';return}
+  last=relog&&last?Object.assign(r,{scan_id:last.scan_id}):r;render(r,URL.createObjectURL(file));
+}
+function render(r,url){
+  const t=r.top[0],d=r.detail||{},kind=t.kind,sure=t.band==='high';
+  const cn=esc((t.crop||'').toLowerCase());
+  let col,icon,head,sub;
+  if(kind==='unknown'){col='#607d8b';icon='❓';head=T('not_sure_head');sub=T('not_sure_sub')}
+  else if(kind==='unnamed_disease'){col='#e65100';icon='🔍';head=t.title;sub=d.summary||''}
+  else if(kind==='healthy'){col='#2e7d32';icon='✅';head=d.nodisease?T('healthy_nocheck_head'):T('healthy_head');
+    sub=d.nodisease?T('healthy_nocheck_sub',{c:cn}):sure?T('healthy_sub_sure',{c:cn}):T('healthy_unsure')}
+  else{col=sure?'#e65100':'#ef8f00';icon='⚠️';head=T(sure?'likely':t.band==='medium'?'possibly':'uncertain',{t:t.title});sub=t.crop?T('plant_n',{p:t.crop}):''}
+  let h='<img class="pic" src="'+url+'" style="margin-top:12px">';
+  h+='<div class="banner" style="background:'+col+'22;border-color:'+col+'88"><div class="h"><span class="i">'+icon+'</span><span>'+esc(head)+'</span></div>';
+  if(sub)h+='<div class="s">'+esc(sub)+'</div>';
+  if(kind!=='unknown'){h+='<div class="s" style="font-weight:600">'+esc(T('conf',{b:T('band_'+t.band),p:Math.round(t.confidence*100)}))+'</div><div class="bar" style="background:'+col+'33"><i style="width:'+pct(t.confidence)+';background:'+col+'"></i></div>'}
+  h+='</div>';
+  if(kind!=='unknown'&&t.tier==='B')h+='<div class="note">ⓘ '+esc(T('tier_b'))+'</div>';
+  if(kind!=='unknown'&&t.tier==='C')h+='<div class="note">ⓘ '+esc(T('tier_c'))+'</div>';
+  if(kind!=='unknown'&&!sure)h+='<div class="note">ⓘ '+esc(T('not_fully_sure'))+'</div>';
+  if(kind==='disease'){
+    if(d.signs&&d.signs.length)h+=card('👁️',esc(T('looks_like')),list(d.signs));
+    if(d.actions&&d.actions.length)h+=card('🩹',esc(T('what_to_do')),list(d.actions));
+    if(d.prevention&&d.prevention.length)h+=card('🛡️',esc(T('prevention')),list(d.prevention));
+    if(d.cause)h+=card('🧬',esc(T('cause')),'<div>'+esc(d.cause)+'</div>');
+    if(r.lookalikes&&r.lookalikes.length)h+=card('↔️',esc(T('confused')),'<div>'+r.lookalikes.map(l=>esc(l.title)).join(', ')+'</div>');
+    h+='<p class="mut">'+esc(T('guidance'))+'</p>';
+  }else if(kind==='unnamed_disease')h+=card('🩹',esc(T('what_to_do')),list(d.actions));
+  else if(kind==='healthy')h+=card('🌱',esc(T('keep_healthy')),list(d.actions));
+  else h+=card('📷',esc(T('better_scan')),list(d.actions));
+  h+='<div class="card"><h3>'+esc(T('was_right'))+'</h3><div class="row"><button onclick="fb(\'yes\')">'+esc(T('yes'))+'</button><button class="alt" style="margin-top:0" onclick="fb(\'no\')">'+esc(T('no'))+'</button></div><div id="fbx"></div></div>';
+  out.innerHTML=h;window.scrollTo(0,0);
+}
+async function fb(v){
+  const fd=new FormData();fd.append('scan_id',last.scan_id);fd.append('correct',v);
+  const box=$('fbx');
+  if(v==='no'){
+    const cl=await (await fetch('/classes?lang='+lang)).json();
+    box.innerHTML='<select id="tl"><option value="">'+esc(T('really_what'))+'</option><option value="other">'+esc(T('other'))+'</option>'+cl.map(c=>'<option value="'+c.id+'">'+esc(c.title)+'</option>').join('')+'</select><button style="margin-top:10px" onclick="send()">'+esc(T('send'))+'</button>';
+    window.send=async()=>{fd.append('true_label',$('tl').value);await fetch('/feedback',{method:'POST',body:fd});box.innerHTML='<p class="mut">'+esc(T('thanks'))+'</p>'};
+    return;
+  }
+  await fetch('/feedback',{method:'POST',body:fd});box.innerHTML='<p class="mut">'+esc(T('thanks'))+'</p>';
+}
+(async()=>{UI=await (await fetch('/ui.json')).json();paint();await loadCrops()})();
+</script></body></html>
