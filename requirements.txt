@@ -13,6 +13,9 @@ fastapi==0.162.5
 uvicorn==0.54.0
 python-multipart==0.0.32
 
+# README charts (scripts/make_charts.py)
+matplotlib==3.10.9
+
 # Export to the phone (ONNX) and parity check
 onnx==1.23.2
 onnxruntime==1.23.2
